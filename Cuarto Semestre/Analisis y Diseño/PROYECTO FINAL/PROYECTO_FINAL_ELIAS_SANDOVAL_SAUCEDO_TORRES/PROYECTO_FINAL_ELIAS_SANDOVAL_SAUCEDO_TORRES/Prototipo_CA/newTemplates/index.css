@@ -1,0 +1,40 @@
+#login{
+    
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(171,255,0,1) 10%, rgba(40,115,129,1) 45%, rgba(46,121,123,1) 68%);
+    height: 400px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    backdrop-filter: blur(15px);
+    
+}
+#btnprimary{
+    background-color: #313D5A;
+    color: white;
+    border-color: white;
+}
+#btnsecondary{
+    background-color: #0CCA4A;
+    color: white;
+    border-color: white;
+}
+.cardblr{
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    border-radius: 5px;
+    backdrop-filter: blur(14px);
+}
+
+body{
+    background-image:url(../Source/giphy.gif);
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment:fixed;
+    height:100%;
+    width:100%;
+    
+}
+
+.Labelsug{
+    color: white;
+}
+

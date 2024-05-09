@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\bin\Debug\A5 DECIMA-ROMANO.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\bin\Debug\A5 DECIMA-ROMANO.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\bin\Debug\A5 DECIMA-ROMANO.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5 DECIMA-ROMANO.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5_DECIMA_ROMANO.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5_DECIMA_ROMANO.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5 DECIMA-ROMANO.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5 DECIMA-ROMANO.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5 DECIMA-ROMANO.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5 DECIMA-ROMANO\A5 DECIMA-ROMANO\obj\Debug\A5 DECIMA-ROMANO.pdb

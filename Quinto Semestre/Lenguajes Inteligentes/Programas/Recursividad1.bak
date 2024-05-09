@@ -1,0 +1,13 @@
+
+
+(define (calcular-suma n)
+  (cond
+    ((= n 1) 1)  ; Caso base: la suma de 1 es 1
+    (else (+ n (calcular-suma (- n 1))))))
+
+(display "Ingresa un número para calcular la suma desde 1 hasta ese número: ")
+(define numero (read))
+(display "La suma desde 1 hasta ")
+(display numero)
+(display " es ")
+(display (calcular-suma numero))

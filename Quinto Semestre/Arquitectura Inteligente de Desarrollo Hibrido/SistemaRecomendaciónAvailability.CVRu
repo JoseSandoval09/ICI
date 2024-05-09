@@ -1,0 +1,2954 @@
+Corvid Ver. 3.0.0
+5531155311084255162015272200007636245128926106438481361361604592533241078221071024137540560065013880030374123615584535881807016704776458102558231002605418316068454160752152517179002836776722627434345301518368331086402878625822435634598411852266035003253241129738361785461277701208651014726611137068140101212201232564
+
+
+
+
+False
+
+
+/CORVID/corvidsr
+
+
+
+False
+
+False
+255,255,255
+BCOLOR=255,255,255 FCOLOR=0,0,0 FONT=SANSERIF SIZE=12 STYLE=PLAIN POSITION=LEFT INDENT=5 CTRLW=25 CTRLR=5
+
+   OK   
+Back
+Restart
+True
+False
+ 19 
+Sistema
+ 0 
+El sistema debe de operar en entornos donde la continuidad del servicio es critica
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+continuidad_del_servicio_es_critica
+Debe de operar en entornos donde la continuidad del servicio es critica. 
+
+
+
+
+
+
+False
+No
+No debe
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Sanity_Checking
+ 4 
+Sanity Checking
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10003 
+Retry
+ 4 
+Retry
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10006 
+Deteccion_de_expeciones
+ 4 
+Deteccion de expeciones
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10008 
+Removal_from_service
+ 4 
+Removal from service
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10011 
+Predictive_model
+ 4 
+Predictive model
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10014 
+Software_Upgrade
+ 4 
+Software Upgrade
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10017 
+Time_Out
+ 4 
+Time Out
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10020 
+Self__Test
+ 4 
+Self  Test
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10023 
+Exception_Handling
+ 4 
+Exception Handling
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10026 
+Rollback
+ 4 
+Rollback
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10028 
+Redundancia
+ 0 
+Redundancia
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+edundancia_automatica
+El sistema debe de priorizar la redundancia automatica para mantener la disponibilidad
+
+
+
+
+
+
+False
+El_sistema_no_debe_de_priorizar
+El sistema no debe de priorizar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Multiples_Intentos
+ 0 
+Multiples Intentos
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+multiples_intentos
+El sistema debe de realizar multiples intentos antes de considerar una operacion como fallida
+
+
+
+
+
+
+False
+No_debe
+No debe
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Observacion_Gradual
+ 0 
+Observacion Gradual
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+observacion_gradual
+El sistema prioriza la observacion gradual antes de la implementacion completa para garantizar un rendimiento optimo
+
+
+
+
+
+
+False
+No_prioriza
+No prioriza
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Redistribucion_dinamica
+ 0 
+Redistribucion dinamica
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+dinamica_de_responsabilidades
+El sistema debe de priorizar la dinamica de responsabilidades entre componentes para adapatarse a cambios en tiempo real
+
+
+
+
+
+
+False
+El_sistema_no_debe_priorizar
+El sistema no debe priorizar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Cambiar_Configuracion
+ 0 
+Cambiar Configuracion
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+cambiar_dinamicamente
+El sistema debe de tener la capacidad de cambiar dinamicamente para satisfacer los requisitos cambiantes
+
+
+
+
+
+
+False
+No_debe
+No debe
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Tolerancia_de_fallas
+ 0 
+Tolerancia de fallas
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+tolerancia_a_fallas
+El sistema debe de priorizar la tolerancia a fallas del sistema sobre la conservacion de recursos
+
+
+
+
+
+
+False
+El_sistema_no_debe_priorizar
+El sistema no debe priorizar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Recuperacion_automatica
+ 0 
+Recuperacion automatica
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+No_debe_de_priorizar
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+recuperar_automaticamente
+El sistema prioriza la capacidad de recuperar automaticamente despues de una falla sobre la intervencion manual
+
+
+
+
+
+
+False
+No_debe_de_priorizar
+No debe de priorizar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Economia_de_recursos
+ 0 
+Economia de recursos
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+economia_de_recursos
+El sistema debe de tener como prioridad la economia de recursos
+
+
+
+
+
+
+False
+No_debe
+No debe
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 2 
+Availability
+ 0 
+ 28 
+IS52:0
+ 9 
+ 9 
+-1 
+ 2 
+
+Sistema = continuidad_del_servicio_es_critica
+IS54:0
+ 4 
+ 4 
+ 1 
+ 3 
+
+Redundancia = edundancia_automatica
+TE56:0
+ 3 
+-1 
+ 2 
+-1 
+
+[Sanity_Checking] = 10
+IS55:3
+ 4 
+-1 
+ 1 
+ 5 
+
+Redundancia = El_sistema_no_debe_de_priorizar
+IS57:0
+ 7 
+ 7 
+ 4 
+ 6 
+
+Multiples_Intentos = multiples_intentos
+TE59:0
+ 6 
+-1 
+ 5 
+-1 
+
+[Retry] = 10
+IS58:6
+ 7 
+-1 
+ 4 
+ 8 
+
+Multiples_Intentos = No_debe
+TE60:0
+ 8 
+-1 
+ 7 
+-1 
+
+[Deteccion_de_expeciones] = 10
+IS53:1
+ 9 
+-1 
+-1 
+ 10 
+
+Sistema = No
+IS61:0
+ 12 
+ 12 
+ 9 
+ 11 
+
+Economia_de_recursos = economia_de_recursos
+TE63:0
+ 11 
+-1 
+ 10 
+-1 
+
+[Removal_from_service] = 10
+IS62:10
+ 12 
+-1 
+ 9 
+ 13 
+
+Economia_de_recursos = No_debe
+IS64:0
+ 15 
+ 15 
+ 12 
+ 14 
+
+Redistribucion_dinamica = dinamica_de_responsabilidades
+TE66:0
+ 14 
+-1 
+ 13 
+-1 
+
+[Predictive_model] = 10
+IS65:13
+ 15 
+-1 
+ 12 
+ 16 
+
+Redistribucion_dinamica = El_sistema_no_debe_priorizar
+IS67:0
+ 18 
+ 18 
+ 15 
+ 17 
+
+Observacion_Gradual = observacion_gradual
+TE69:0
+ 17 
+-1 
+ 16 
+-1 
+
+[Software_Upgrade] = 10
+IS68:16
+ 18 
+-1 
+ 15 
+ 19 
+
+Observacion_Gradual = No_prioriza
+IS70:0
+ 21 
+ 21 
+ 18 
+ 20 
+
+Cambiar_Configuracion = cambiar_dinamicamente
+TE72:0
+ 20 
+-1 
+ 19 
+-1 
+
+[Time_Out] = 10
+IS71:19
+ 21 
+-1 
+ 18 
+ 22 
+
+Cambiar_Configuracion = No_debe
+IS73:0
+ 24 
+ 24 
+ 21 
+ 23 
+
+Tolerancia_de_fallas = tolerancia_a_fallas
+TE75:0
+ 23 
+-1 
+ 22 
+-1 
+
+[Self__Test] = 10
+IS74:22
+ 24 
+-1 
+ 21 
+ 25 
+
+Tolerancia_de_fallas = El_sistema_no_debe_priorizar
+IS76:0
+ 27 
+ 27 
+ 24 
+ 26 
+
+Recuperacion_automatica = recuperar_automaticamente
+TE78:0
+ 26 
+-1 
+ 25 
+-1 
+
+[Exception_Handling] = 10
+IS77:25
+ 27 
+-1 
+ 24 
+ 28 
+
+Recuperacion_automatica = No_debe_de_priorizar
+TE79:0
+ 28 
+-1 
+ 27 
+-1 
+
+[Rollback] = 10
+
+ 0 
+Command Block 1
+ 1 
+ 2 
+C12:0
+ 2 
+ 2 
+-1 
+-1 
+
+DERIVE CONF
+C13:0
+ 2 
+-1 
+-1 
+-1 
+
+RESULTS
+
+ 0 
+ 1 
+CONFIDENCE FORMAT: FONT=Monospaced SIZE=20 FCOLOR=255,128,128
+ 1 
+CONFIDENCE FORMAT:  FONT=Monospaced SIZE=20 FCOLOR=255,128,128
+Command Block 1
+ 0 
+ 0 
+
+

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expresiones regulares</title>
+    <script src="jquery-3.6.4.min.js"></script>
+
+    <!--Las expresiones regulares nos ayudan a hacer validaciones-->
+</head>
+<body>
+    <script type="text/javascript">
+        let text="Las expresiones regulares son muy interesantes";
+        let regex=/REG/g; //valida que exista un reg, palabra reg/ i es un modificador que permite que la busqueda sea case sensitive/modificador g muestra todas las coincidencias que encontro
+        let resultado=text.match(regex); //Evalua si lo que tiene la variable regex coinicide con lo que tiene mi texto, reg es parte de "reg"ULARES
+        alert(resultado);
+    </script>
+    
+</body>
+</html>

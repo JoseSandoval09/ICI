@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="JuegoUsuario" directorySegmentName="seg_0" id="9D6FB5A0-6EC1-88C9-D717-555F80947081">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:20:28 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<sourcePk>5F720915-AD76-A01D-374A-CFC4185E9D85</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>D3F406CD-0530-F7A5-4119-68A688EEE12D</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>6B604352-5867-2C9E-A8A8-F87FB05609A1</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

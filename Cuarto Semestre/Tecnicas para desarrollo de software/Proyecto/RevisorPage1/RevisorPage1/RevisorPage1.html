@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="RevisorPage1.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500&display=swap" rel="stylesheet">
+  <title>My Dashboard</title>
+</head>
+
+<body>
+  <div class="navbar">
+    <h1 class="navbar-title">Congreso de Ciencias Oscuras</h1>
+    <div class="navbar-content">
+      <input id="menu__toggle" type="checkbox" />
+      <label class="menu__btn" for="menu__toggle">
+        <span></span>
+      </label>
+
+      <ul class="menu__box">
+        <li><a class="menu__item" href="#">Inicio</a></li>
+        <li><a class="menu__item" href="#">Explorar</a></li>
+        <li><a class="menu__item" href="#">Nuestro Equipo</a></li>
+        <li><a class="menu__item" href="#">Contacto</a></li>
+        <li><a class="menu__item" href="#">Cerrar Sesión</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pdfview">
+    <h1 id="pdfwelcomeuser" style="color: black;">Bienvenido Revisor</h1>
+    <h4 id="enrevision" style="color: black;">Articulo en revision: <a style="color: black;"  href="pdf-test.pdf">Nombre de articulo</a> de Jose Sandoval </h4>
+    <iframe id="pdfview" src="pdf-test.pdf" frameborder="0"></iframe>
+  </div>
+
+
+  <div class="dashboard-page">
+    <h2 style="color: darkorchid;">REVISION</h2>
+    <div class="table-wrapper">
+      <table class="container">
+        <thead>
+          <tr>
+            <th width="30%">
+              <h1 id = "init" style="color: black;">Requisito</h1>
+            </th>
+            <th>
+              <h1 style="color: black;">Cumplimiento</h1>
+            </th>
+            <th>
+              <h1 style="color: black;">Comentario</h1>
+            </th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <p>¿El tema del articulo corresponde con la categoria?</p>
+            </td>
+            <td>
+              <select name="cumplimiento" id="cumplimiento">
+                <option value="si" selected = "selected">Si</option>
+                <option value="maySi" selected = "selected">Mayormente si</option>
+                <option value="mayNo" selected = "selected">Mayormente no</option>
+                <option value="no" selected = "selected">No</option>
+              </select>
+            </td>
+            <td> 
+              <textarea name="opinion" class ="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>¿El articulo contiene los apartados: asbtract, introduccion, experimentacion, resultados, conclusiones, bibliografía?</p>
+            </td>
+            <td>
+              <select name="cumplimiento" id="cumplimiento">
+                <option value="si" selected = "selected">Si</option>
+                <option value="maySi" selected = "selected">Mayormente si</option>
+                <option value="mayNo" selected = "selected">Mayormente no</option>
+                <option value="no" selected = "selected">No</option>
+              </select>
+            </td>
+            <td> 
+              <textarea name="opinion" class ="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>¿La longitud de cada apartado es "equilibrado" respecto al resto de los apartados?</p>
+            </td>
+            <td>
+              <select name="cumplimiento" id="cumplimiento">
+                <option value="si" selected = "selected">Si</option>
+                <option value="maySi" selected = "selected">Mayormente si</option>
+                <option value="mayNo" selected = "selected">Mayormente no</option>
+                <option value="no" selected = "selected">No</option>
+              </select>
+            </td>
+            <td> 
+              <textarea name="opinion" class ="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>¿El articulo es concistente respecto a los apartados?( que el tema aparezca en todos los apartados habla de lo mismo)</p>
+            </td>
+            <td>
+              <select name="cumplimiento" id="cumplimiento">
+                <option value="si" selected = "selected">Si</option>
+                <option value="maySi" selected = "selected">Mayormente si</option>
+                <option value="mayNo" selected = "selected">Mayormente no</option>
+                <option value="no" selected = "selected">No</option>
+              </select>
+            </td>
+            <td> 
+              <textarea name="opinion" class ="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>¿La aportacion del articulo es...?</p>
+            </td>
+            <td>
+              <select name="cumplimiento" id="cumplimiento">
+                <option value="si" selected = "selected">Sobresaliente</option>
+                <option value="Suficiente" selected = "selected">Suficiente</option>
+                <option value="modificar" selected = "selected">A reserva de modificación</option>
+                <option value="min" selected = "selected">Minimo</option>
+                <option value="no" selected = "selected">Nulo</option>
+              </select>
+            </td>
+            <td> 
+              <textarea name="opinion" class ="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>¿El articulo se acepta?</p>
+            </td>
+            <td>
+              <select name="aceptacion" id="aceptacion">
+                <option value="si" selected = "selected">Si</option>
+                <option value="no" selected = "selected">No</option>
+                <option value="corregir" selected = "selected">Se tiene que corregir</option>
+              </select>
+            </td>
+            <td>
+              <textarea name="opinion" class="criterio" cols="50" rows="10"></textarea>
+            </td>
+          </tr>
+        </tbody>
+      </table>  
+      <button id="btn">Enviar</button>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="28342662-0F2B-C6E1-248A-CA1F40CAD471" name="Cancion">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 01:47:48 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="idCancion" id="A93A2457-9C83-80BE-214C-98D408ECC3BF">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 01:47:57 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nombre" id="A39C2549-73E4-78E9-2452-74F92A4C58B4">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 01:48:10 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Duracion" id="EA03FB58-90DA-67AB-C306-980A9D30107A">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 01:48:28 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="idAlbum" id="94EAE69D-2922-E745-D721-EDE958D65E2E">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:17:23 UTC</createdTime>
+<generatorID>E1120AE0-AE9D-4514-B62A-96FED0682F5C</generatorID>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<referedAttribute>6EEF1B9C-742F-901E-A516-72DC32842FBF</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="idLetra" id="006281B7-FDF6-B8C1-4FD4-BCBEF0E30A30">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 03:08:21 UTC</createdTime>
+<generatorID>A10DDA0E-A2D5-7077-4DF8-4ED264A8DD72</generatorID>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<referedAttribute>8CB98AFF-9D9E-D7D1-683B-365B4990FB29</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="67EAD26D-900E-3F77-2650-B6757A227BB4" name="Cancion PK">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 01:48:09 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>A93A2457-9C83-80BE-214C-98D408ECC3BF</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A14_MULTIPLICACION_MATRICES", "A14_MULTIPLICACION_MATRICES.csproj", "{FAB6F6FC-BA7C-47C6-8721-E73942A34942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB6F6FC-BA7C-47C6-8721-E73942A34942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB6F6FC-BA7C-47C6-8721-E73942A34942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB6F6FC-BA7C-47C6-8721-E73942A34942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB6F6FC-BA7C-47C6-8721-E73942A34942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358B5F68-F384-4056-B8FB-51EB6D4EA448}
+	EndGlobalSection
+EndGlobal

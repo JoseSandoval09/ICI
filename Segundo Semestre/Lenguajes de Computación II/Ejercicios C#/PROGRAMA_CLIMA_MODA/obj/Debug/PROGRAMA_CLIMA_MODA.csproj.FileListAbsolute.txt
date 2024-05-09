@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\bin\Debug\PROGRAMA_CLIMA_MODA.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\bin\Debug\PROGRAMA_CLIMA_MODA.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\bin\Debug\PROGRAMA_CLIMA_MODA.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\PROGRAMA_CLIMA_MODA\obj\Debug\PROGRAMA_CLIMA_MODA.pdb

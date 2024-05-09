@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PaisArtista" directorySegmentName="seg_0" id="E4F15F20-010F-F2AD-E5FA-50E9B76ACF55">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:13:56 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<sourcePk>029F7200-5CC1-7CE5-898E-87ABE8BCF530</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>27353D50-0273-99EB-9A3A-1D0C03871B79</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>EB53310B-8452-4006-AF56-E6EEEBE58148</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

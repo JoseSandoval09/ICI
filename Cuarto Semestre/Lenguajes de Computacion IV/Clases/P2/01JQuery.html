@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery</title>
+    <script src="jquery-3.6.4.min.js"></script>
+
+    <style type="text/css">
+
+        #circle{
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background-color: aquamarine;
+            margin: 10px;
+        }
+
+        .squarepants{
+            width: 150px;
+            height: 150px;
+            
+            background-color: rgb(28, 84, 158);
+            margin: 10px;
+        }
+        
+
+    </style>
+</head>
+<body>
+
+    <div id="circle"></div>
+    <div class="squarepants"></div>
+    <div class="squarepants"></div>
+    <p>Este es un parrafo</p>
+
+    <script type="text/javascript">
+        $("div").click(function(){
+            $(this).fadeOut()
+            $(this).show(0);
+        })
+    </script>
+    
+    
+    
+</body>
+</html>

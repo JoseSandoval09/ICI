@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adivinador de números</title>
+    <style>
+        body{
+        background-color: white;
+        text-align: center;
+        font-size: large;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        }
+        div { 
+            background-color: rgb(116, 186, 229);
+            width: 830px;
+            margin: 1em auto;
+            padding: 2em;
+            border-radius: 0.8em;
+            text-align: center;
+           
+        }
+        #guess{
+            background-color: red;
+            width: 240px;
+            height: 10px;
+            text-align: center;
+            border-radius: 0.8em;
+        }
+        #back{
+            background-color: rgb(0, 0, 0);
+            width: fit-content;
+            height: fit-content;
+            margin: 0em auto;
+            text-align: center;
+        }
+        #azul{
+            width: 80px;
+            height: 80px;
+            margin: 1em 0em 0em 1em;
+            text-align: left;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <h4><strong>A D I V I N A &nbsp&nbsp M I &nbsp&nbsp N U M B E R O</strong></h4>
+    <br>
+    <div id="back">
+        <label for="num" style="color: white;">Ingresa un número entero entre 1 y 50:</label>
+        <input id="num" value="0" type="number" placeholder="Entero 1" min="1" max="50">
+        <br>
+        <table>
+            <td>
+                <div id="guess">ADIVINAR</div>
+            </td>
+            <td>
+                <div id="azul">Apuesta: </div>
+            </td>
+        </table>
+    </div>
+</body>
+<script type="text/javascript">
+    let num=document.querySelector('#num');
+    var guess=0;
+    var i=1;
+    num.addEventListener('input',function(){
+        let numb=num.value;
+        numbAsNumber=parseFloat(num.value);
+    });
+    document.getElementById("guess").onclick = function() {
+        while (guess!=numbAsNumber){
+            guess=(Math.floor(Math.random()*50))+1;
+            document.getElementById("azul").innerHTML="Intentos ("+i+") Número ("+guess+")";
+            i++;
+        }
+     }
+    
+
+</script>
+</html>

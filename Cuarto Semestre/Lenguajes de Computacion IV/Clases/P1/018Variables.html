@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variables</title>
+</head>
+<body>
+
+    <input id="entradaUser" type="text" placeholder="usuario">
+    <button id="mostrarMensaje">LOGIN</button>
+    <p id="texto"> Inicio de sesión</p>
+
+    <!--
+        <script type="text/javascript">
+        var x=1;
+        var y=2;
+        var suma=x+y;
+        alert(suma);
+        </script>
+    -->
+
+    <script type="text/javascript">
+        
+        document.getElementById("mostrarMensaje").onclick=function(){
+
+            var user="";
+            var cal=6;
+            user=document.getElementById("entradaUser").value;
+
+
+            /*
+            alert("Bienvenido " + user);
+            document.getElementById("texto").innerHTML="Bienvenido " +  user;
+            */
+           if(cal<6){
+            document.getElementById("texto").innerHTML="Bienvenido " + user + " reprobado";
+           }else{
+            document.getElementById("texto").innerHTML="Bienvenido " + user + " Aprobado";
+           }
+
+        } //llamando elemento de nuestro boton
+
+
+    </script>
+    
+    
+</body>
+</html>

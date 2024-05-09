@@ -1,0 +1,98 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E0416212-490F-4D54-D3A9-A0AA4D3C6742" name="Letra">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:03:45 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="idLetra" id="8CB98AFF-9D9E-D7D1-683B-365B4990FB29">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:03:54 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Texto" id="6BE1589F-0DA7-32F6-FBD1-027096C07DCD">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:04:09 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>500</dataTypeSize>
+<ownDataTypeParameters>500,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Version" id="2D647D2B-AC3D-35B0-FADF-B5014619FE45">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:05:04 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Descripcion" id="AF953A4E-C07A-0DF7-B5CB-F22A0B046007">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:05:14 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="idCancion" id="19DB1E44-7B13-DBE8-CD8E-0D66181D2B54">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:18:06 UTC</createdTime>
+<generatorID>A10DDA0E-A2D5-7077-4DF8-4ED264A8DD72</generatorID>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<referedAttribute>A93A2457-9C83-80BE-214C-98D408ECC3BF</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="125D7A77-F92E-473E-DB3E-AB61FC51837B" name="Letra PK">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 03:08:20 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>8CB98AFF-9D9E-D7D1-683B-365B4990FB29</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

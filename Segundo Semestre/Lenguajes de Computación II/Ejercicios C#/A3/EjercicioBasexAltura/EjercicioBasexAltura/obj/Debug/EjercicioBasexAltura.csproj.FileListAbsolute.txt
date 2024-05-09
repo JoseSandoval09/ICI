@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\bin\Debug\EjercicioBasexAltura.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\bin\Debug\EjercicioBasexAltura.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\bin\Debug\EjercicioBasexAltura.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioBasexAltura\EjercicioBasexAltura\obj\Debug\EjercicioBasexAltura.pdb

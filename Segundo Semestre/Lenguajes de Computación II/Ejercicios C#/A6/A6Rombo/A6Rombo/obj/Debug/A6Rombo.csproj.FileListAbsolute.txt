@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\bin\Debug\A6Rombo.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\bin\Debug\A6Rombo.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\bin\Debug\A6Rombo.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6Rombo\A6Rombo\obj\Debug\A6Rombo.pdb

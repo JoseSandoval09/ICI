@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAMBIO FORMA CIRCULO</title>
+
+    <style type="text/css">
+
+        
+        .circulos{
+            width: 150px;
+            height:150px;
+            position: relative;
+        }
+
+        #circulo-1{
+            background-color: aqua;
+            border-radius: 50%;
+            margin-top: 30px;
+
+        }
+        #circulo-2{
+            background-color: blue;
+            border-radius: 50%;
+            margin-top: 30px;
+        }
+        #circulo-3{
+            background-color: coral;
+            border-radius: 50%;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+
+        .textbar{
+            background-color: rgb(5, 87, 92);
+            width: auto;
+            height: 50px;
+            position: absolute 10px 10px;
+            text-align: center;
+
+        }
+        h3{
+            padding: 15px;
+        }
+
+        
+    </style>
+
+
+</head>
+<body>
+
+   <div class="textbar">
+        <h3>
+            CAMBIO DE ESTILOS CON JAVASCRIPT
+        </h3>
+   </div>
+
+
+   <p>¡ DA CLICK SOBRE LOS CIRCULOS PARA DESAPARECER, REDIMENSIONAR Y CAMBIAR LA FORMA !</p>
+
+
+   <!--Creacion de circulos-->
+   <div id="circulo-1" class="circulos">
+   </div>
+   <div id="circulo-2" class="circulos"></div>
+   <div id="circulo-3" class="circulos"></div>
+   
+
+   <script type="text/javascript">
+
+        document.getElementById("circulo-1").onclick= function(){
+            //despareciendo el circulo con display=none
+            document.getElementById("circulo-1").style.display="none";
+        }
+
+        document.getElementById("circulo-2").onclick= function(){
+            //redimensionando circulo 2
+            document.getElementById("circulo-2").style.height="70px";
+            document.getElementById("circulo-2").style.height="50px";
+        }
+
+        document.getElementById("circulo-3").onclick= function(){
+            //cambiando de forma circulo3
+            document.getElementById("circulo-3").style.borderRadius="0%";
+        }
+
+   </script>
+
+
+    
+</body>
+</html>

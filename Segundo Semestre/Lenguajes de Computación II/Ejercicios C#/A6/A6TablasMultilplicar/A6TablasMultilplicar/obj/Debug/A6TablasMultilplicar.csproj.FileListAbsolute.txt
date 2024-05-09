@@ -1,0 +1,9 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\bin\Debug\A6TablasMultilplicar.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\bin\Debug\A6TablasMultilplicar.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\bin\Debug\A6TablasMultilplicar.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6TablasMultilplicar\A6TablasMultilplicar\obj\Debug\A6TablasMultilplicar.pdb

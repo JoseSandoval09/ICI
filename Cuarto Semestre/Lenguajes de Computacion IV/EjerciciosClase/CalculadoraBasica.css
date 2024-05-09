@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin:0%;
+}
+#mbar{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: auto;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    margin: 0 0 0 0px;
+}
+#calc{
+    height: 300px;
+    width: auto;
+    display: flex;
+    background-color: antiquewhite;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}

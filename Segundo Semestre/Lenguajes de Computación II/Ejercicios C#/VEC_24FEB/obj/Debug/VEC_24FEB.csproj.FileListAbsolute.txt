@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\bin\Debug\VEC_24FEB.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\bin\Debug\VEC_24FEB.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\bin\Debug\VEC_24FEB.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\VEC_24FEB\obj\Debug\VEC_24FEB.pdb

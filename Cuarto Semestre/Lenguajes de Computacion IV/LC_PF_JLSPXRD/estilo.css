@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Questrial&display=swap');
+:root{
+    --primario: rgb(182,223,223);
+    --secundario: rgb(222, 244, 244);
+    --terciario:  rgb(120,204,204);
+    --fondo:rgb(233,234,238);
+    --black: #black;
+}
+body{
+    background-color: var(--fondo);
+    text-align: center;
+    font-family: Questrial,'Courier New', -apple-system, system-ui, Courier, monospace;
+}
+.big{
+    text-align: center;
+    font-family:Coiny;
+    color: var(--black);
+    font-size: 30px;
+}
+.text{
+    text-align: center;
+    color: var(--black);
+}
+.textbig{
+    text-align: center;
+    color: var(--black);
+    font-size: 20px;
+}
+.title{
+    text-align: center;
+    font-family:Questrial;
+    color: var(--black);
+    font-size: 25px;
+    font-weight: bolder;
+}
+.subtitle{
+    font-family:Questrial;
+    color: var(--black);
+    font-size: 20px;
+    font-weight: bold;
+}
+.boton{
+    font-family:Questrial;
+    color: var(--black);
+    font-weight: bolder;
+    padding: 0.3em;
+    border-radius: 1em;
+    border-color: rgba(0, 0, 0, 0.477);
+}
+.enviar{
+    font-family:Questrial;
+    color: var(--black);
+    font-weight: bolder;
+    padding: 0.3em;
+    border-radius: 1em;
+    border-color: rgba(0, 0, 0, 0.477);
+    background-color: var(--secundario);
+}
+div.conteiner{ 
+    font-family: Questrial;
+    background-color: var(--primario) ;
+    width: 800px;
+    margin: auto;
+    padding: 2em;
+    border-radius: 0.8em;
+}
+div.quien{ 
+    font-family: Questrial;
+    background-color: rgb(236,248,248) ;
+    width: 350px;
+    margin: auto;
+    padding: 2em;
+    position: relative;
+    right: 400px;
+    top: -300px;
+    border-radius: 0.8em;
+}
+div.buscamos{ 
+    font-family: Questrial;
+    background-color: rgb(236,248,248) ;
+    width: 350px;
+    margin: auto;
+    padding: 2em;
+    position: relative;
+    right: -400px;
+    top: -570px;
+    border-radius: 0.8em;
+}
+div.slide{ 
+    font-family: Questrial;
+    background-color: rgb(236,248,248);
+    width: 280px;
+    margin: auto;
+    padding: 2em;
+    position: relative;
+    top: -540px;
+    border-radius: 0.8em;
+}
+div.wha{ 
+    font-family: Questrial;
+    background-color: rgb(236,248,248);
+    width: 350px;
+    margin: auto;
+    padding: 2em;
+    position: relative;
+    right: 400px;
+    top: -815px;
+    border-radius: 0.8em;
+}
+div.insta{ 
+    font-family: Questrial;
+    background-color: rgb(236,248,248);
+    width: 350px;
+    margin: auto;
+    padding: 2em;
+    position: relative;
+    right: -400px;
+    top: -1105px;
+    border-radius: 0.8em;
+}
+div.datos{
+    width: 700px;
+    margin: auto;
+    padding: 1em;
+    border-radius: 0.8em;
+    font-family:Questrial;
+    background-color: var(--fondo);
+    color: var(--black);
+}
+div.titulo{
+    width: 500px;
+    margin: auto;
+    padding: auto;
+    border-radius: 0.8em;
+    font-family:Questrial;
+
+    color: var(--black);
+    text-align: center;
+}
+div.pacientes{
+    width: 700px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+div.tabla{ 
+    font-family: Questrial;
+    background-color: var(--primario) ;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    padding: 0.25em;
+    border-radius: 0.9em;
+}
+div.editar{
+    font-family: Questrial;
+    background-color: var(--primario);
+    text-align: center;
+    width: 900px;
+    margin: auto;
+    padding: 0.5em;
+    border-radius: 0.9em;
+}
+div.eliminar{
+    font-family: Questrial;
+    background-color: var(--secundario);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    right: 220px;
+    padding: 0.5em;
+    border-radius: 0.9em;
+}
+div.modificar{
+    font-family: Questrial;
+    background-color: var(--secundario);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    top:-220px;
+    right: -220px;
+    padding: 0.5em;
+    border-radius: 0.9em;
+}

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elementos JQuery</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
+
+    <style type="text/css">
+
+        #CajaGrande{
+            width: auto;
+            height: 700px;
+        }
+
+
+
+        #header{
+            width: 500px;
+            height: 50px;
+            margin-top: auto;
+        }
+
+        .class{
+            text-align: center;
+            padding-top: 0.5em;
+            text-indent: 40px;
+            letter-spacing: .4em;
+            font-family: 'Courier New', Courier, monospace;
+            
+        }
+
+
+        #face{
+            height: 500px;
+            width: 650px;
+            position: absolute;
+            top: 200px;
+            left: 350px;
+
+        }
+
+
+        
+        #ojos{
+            height: 150px;
+            width: 200px;
+        }
+        #Ojos{
+            position: absolute;
+            left: 50px;
+        }
+
+        #nariz{
+            height: 150px;
+            width: 150px;   
+        }
+        #Nariz{
+            position: absolute;
+            left: 50px;
+            top: 300px; 
+        }
+
+
+        #orejader{
+            height: 150px;
+            width: 150px;
+        }
+
+        #OrejaDer{
+            position: absolute;
+            left: 50px;
+            top: 550px; 
+        }
+
+        #orejaizq{
+            height: 150px;
+            width: 150px;
+        }
+        #OrejaIzq{
+            position: absolute;
+            right: 150px;
+            top: 100px;  
+        }
+
+        #pelo{
+            height: 300px;
+            width: 400px;
+            
+        }
+        #Cabello{
+            position: absolute;
+            right: 20px;
+            top: 300px;
+            
+        }
+
+        #boca{
+            height: 80px;
+            width: 80px;
+        }
+        #Boca{
+            position: absolute;
+            right: 150px;
+            top: 600px; 
+        }
+
+
+
+
+    </style>
+
+
+
+
+</head>
+
+<body>
+
+    <div id="header"> <h3 id="text">PERSONALIZA LA CARA CON ELEMENTOS DISPONIBLES</h3></div>
+    <div id="CajaGrande">
+        <div id="Face"><img src="face.png" id="face"></div>
+        <div id="Ojos"><img src="ojos.png" id="ojos"></div>
+        <div id="Nariz"><img src="nariz.png" id="nariz"></div>
+        <div id="OrejaDer"><img src="orejader-removebg-preview.png" id="orejader"></div>
+        <div id="OrejaIzq"><img src="orejaizq-removebg-preview.png" id="orejaizq"></div>
+        <div id="Cabello"><img src="pelo.png" id="pelo"></div>
+        <div id="Boca"><img src="boca.png" id="boca"></div>
+    </div>
+
+    
+
+
+    <script type="text/javascript">  
+    
+         $("#CajaGrande").animate({
+            backgroundColor:"#587792",
+            heigth:"700px",
+            width:"1480px"
+        },2000)
+
+        $("#header").animate({
+            backgroundColor:"#8DB1AB",
+            width:"1480px",
+            heigth:"80px"
+        },2000);
+
+        $("#text").addClass("class");
+
+       
+        
+
+
+        $("#Ojos").draggable();
+        $("#Ojos").resizable();
+
+        $("#Nariz").draggable();
+        $("#Nariz").resizable();
+
+        $("#OrejaDer").draggable();
+        $("#OrejaDer").resizable();
+
+        $("#OrejaIzq").draggable();
+        $("#OrejaIzq").resizable();
+
+        $("#Cabello").draggable();
+        $("#Cabello").resizable();
+
+        $("#Boca").draggable();
+        $("#Boca").resizable();
+
+    
+
+    
+    </script>
+    
+</body>
+</html>

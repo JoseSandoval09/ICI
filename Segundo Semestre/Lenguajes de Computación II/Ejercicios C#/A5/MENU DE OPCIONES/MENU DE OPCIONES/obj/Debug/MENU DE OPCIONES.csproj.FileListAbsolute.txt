@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\bin\Debug\MENU DE OPCIONES.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\bin\Debug\MENU DE OPCIONES.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\bin\Debug\MENU DE OPCIONES.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU DE OPCIONES.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU_DE_OPCIONES.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU_DE_OPCIONES.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU DE OPCIONES.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU DE OPCIONES.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU DE OPCIONES.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A5\MENU DE OPCIONES\MENU DE OPCIONES\obj\Debug\MENU DE OPCIONES.pdb

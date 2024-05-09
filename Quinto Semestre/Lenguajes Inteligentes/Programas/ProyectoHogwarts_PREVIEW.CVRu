@@ -1,0 +1,2908 @@
+Corvid Ver. 3.0.0
+6474866106671178621142405219340064041276038655667916442287173310702447228414262350641182820212420247655520845881658257488885245176075676250862700507132051151057053492855327146261642258354615263483058250731758155420717008904578314344303101801173938816756846027688041032885542337585461011512665535422080110213343166110
+
+
+
+
+False
+
+
+/CORVID/corvidsr
+
+
+
+False
+
+False
+255,255,255
+BCOLOR=255,255,255 FCOLOR=0,0,0 FONT=SANSERIF SIZE=12 STYLE=PLAIN POSITION=LEFT INDENT=5 CTRLW=25 CTRLR=5
+
+   OK   
+Back
+Restart
+True
+False
+ 14 
+Question1
+ 0 
+¿Cuando enfrentas un desafio, que haces?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Gryffindor
+Lo abordo con valentia, enfrentandolo de frente
+
+
+
+
+
+
+False
+Ravenclaw
+Lo analizo cuidadosamente antes de actuar
+
+
+
+
+
+
+False
+Hufflepuf
+Trabajo en equipo para superarlo
+
+
+
+
+
+
+False
+Slytherin
+Busco la mejor estrategia para superarlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 5 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question2
+ 0 
+¿Qué cualidad valoras más?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Gryffindor
+ Valentia
+
+
+
+
+
+
+False
+Ravenclaw
+Inteligencia
+
+
+
+
+
+
+False
+Hufflepuf
+Lealtad
+
+
+
+
+
+
+False
+Slytherin
+Astucia
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 2 
+ 1 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question3
+ 0 
+¿Cómo reaccionas ante la injusticia?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Gryffindor
+Intervengo y defiendo a los oprimidos
+
+
+
+
+
+
+False
+Ravenclaw
+Busco entender el contexto antes de actuar
+
+
+
+
+
+
+False
+Hufflepuf
+Trato de resolverlo en conjunto con otros
+
+
+
+
+
+
+False
+Slytherin
+Planifico cuidadosamente como abordar la situacion
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question4
+ 0 
+¿Qué te motiva más al aprender algo nuevo?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Ravenclaw
+La emoción de descubrir algo fascinante
+
+
+
+
+
+
+False
+Slytherin
+La aplicación práctica de ese conocimiento
+
+
+
+
+
+
+False
+Hufflepuff
+El deseo de compartir lo aprendido con otros
+
+
+
+
+
+
+False
+Gryffindor
+La oportunidad de profundizar en el tema
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question5
+ 0 
+En una conversación, ¿qué prefieres discutir?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Ravenclaw
+ Ideas creativas y originales
+
+
+
+
+
+
+False
+Slytherin
+Datos y hechos comprobados
+
+
+
+
+
+
+False
+Hufflepuff
+Experiencias personales y emociones
+
+
+
+
+
+
+False
+Gryffindor
+Estrategias y planes detallados
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question6
+ 0 
+¿Cómo manejas los desafíos intelectuales?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Ravenclaw
+Los encuentro emocionantes y motivadores
+
+
+
+
+
+
+False
+Slytherin
+Los abordo con lógica y razonamiento
+
+
+
+
+
+
+False
+Hufflepuff
+Busco la colaboración de otros para resolverlos
+
+
+
+
+
+
+False
+Gryffindor
+Los veo como oportunidades para aprender
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question7
+ 0 
+En un proyecto en equipo, ¿qué valoras más?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Hufflepuff
+El exito y la colaboración del grupo
+
+
+
+
+
+
+False
+Slytherin
+El reconocimiento individual por tu contribución
+
+
+
+
+
+
+False
+Gryffindor
+La capacidad de trabajar arduamente hacia una meta
+
+
+
+
+
+
+False
+Ravenclaw
+La justicia y la igualdad en la distribución de tareas
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question8
+ 0 
+¿Cómo te sientes acerca del trabajo arduo?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Hufflepuff
+Lo encuentro gratificante y necesario
+
+
+
+
+
+
+False
+Slytherin
+ Depende de la recompensa final
+
+
+
+
+
+
+False
+Ravenclaw
+Prefiero trabajar eficientemente, aunque no sea arduo
+
+
+
+
+
+
+False
+Gryffindor
+Debería ser reconocido y recompensado adecuadamente
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question9
+ 0 
+¿Qué cualidad es más importante para ti en una amistad?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Hufflepuff
+Lealtad
+
+
+
+
+
+
+False
+Ravenclaw
+Inteligencia
+
+
+
+
+
+
+False
+Gryffindor
+Valentia
+
+
+
+
+
+
+False
+Slytherin
+ Astucia
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Question10
+ 0 
+¿Cómo te sientes acerca de la ambición y el deseo de lograr metas específicas?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 4 
+Slytherin
+Es una parte fundamental de mi personalidad.
+
+
+
+
+
+
+False
+Ravenclaw
+Lo considero importante, pero no es lo único
+
+
+
+
+
+
+False
+Hufflepuff
+Prefiero centrarme en el trabajo en equipo que en metas individuales
+
+
+
+
+
+
+False
+Gryffindor
+No me siento cómodo/a con la ambición excesiva
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Slytherin
+ 4 
+Slytherin
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 10008 
+ 10016 
+ 10024 
+ 10028 
+ 10036 
+ 10044 
+ 10052 
+ 10060 
+ 10072 
+ 10074 
+Ravenclaw
+ 4 
+Ravenclaw
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 10004 
+ 10012 
+ 10020 
+ 10026 
+ 10034 
+ 10042 
+ 10056 
+ 10062 
+ 10068 
+ 10076 
+Hufflepuf
+ 4 
+Hufflepuff
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 10006 
+ 10014 
+ 10022 
+ 10030 
+ 10038 
+ 10046 
+ 10050 
+ 10058 
+ 10066 
+ 10078 
+Gryffindor
+ 4 
+Gryffindor
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 10002 
+ 10010 
+ 10018 
+ 10032 
+ 10040 
+ 10048 
+ 10054 
+ 10064 
+ 10070 
+ 10080 
+ 3 
+Logic Block 1
+ 0 
+ 80 
+IS1:0
+ 79 
+ 3 
+-1 
+ 2 
+
+Question1 = Lo abordo con valentia, enfrentandolo de frente
+TE31:0
+ 2 
+-1 
+ 1 
+-1 
+
+[Gryffindor] = 10
+IS2:1
+ 79 
+ 5 
+-1 
+ 4 
+
+Question1 = Lo analizo cuidadosamente antes de actuar
+TE32:0
+ 4 
+-1 
+ 3 
+-1 
+
+[Ravenclaw] = 10
+IS2:0
+ 79 
+ 7 
+-1 
+ 6 
+
+Question1 = Trabajo en equipo para superarlo
+TE33:0
+ 6 
+-1 
+ 5 
+-1 
+
+[Hufflepuf] = 10
+IS3:3
+ 79 
+ 9 
+-1 
+ 8 
+
+Question1 = Busco la mejor estrategia para superarlo
+TE34:0
+ 8 
+-1 
+ 7 
+-1 
+
+[Slytherin] = 10
+IS4:0
+ 79 
+ 11 
+-1 
+ 10 
+
+Question2 =  Valentia
+TE35:0
+ 10 
+-1 
+ 9 
+-1 
+
+[Gryffindor] = 10
+IS5:5
+ 79 
+ 13 
+-1 
+ 12 
+
+Question2 = Inteligencia
+TE36:0
+ 12 
+-1 
+ 11 
+-1 
+
+[Ravenclaw] = 10
+IS5:0
+ 79 
+ 15 
+-1 
+ 14 
+
+Question2 = Lealtad
+TE37:0
+ 14 
+-1 
+ 13 
+-1 
+
+[Hufflepuf] = 10
+IS6:7
+ 79 
+ 17 
+-1 
+ 16 
+
+Question2 = Astucia
+TE38:0
+ 16 
+-1 
+ 15 
+-1 
+
+[Slytherin] = 10
+IS7:0
+ 79 
+ 19 
+-1 
+ 18 
+
+Question3 = Intervengo y defiendo a los oprimidos
+TE39:0
+ 18 
+-1 
+ 17 
+-1 
+
+[Gryffindor] = 10
+IS8:9
+ 79 
+ 21 
+-1 
+ 20 
+
+Question3 = Busco entender el contexto antes de actuar
+TE40:0
+ 20 
+-1 
+ 19 
+-1 
+
+[Ravenclaw] = 10
+IS8:0
+ 79 
+ 23 
+-1 
+ 22 
+
+Question3 = Trato de resolverlo en conjunto con otros
+TE41:0
+ 22 
+-1 
+ 21 
+-1 
+
+[Hufflepuf] = 10
+IS9:11
+ 79 
+ 25 
+-1 
+ 24 
+
+Question3 = Planifico cuidadosamente como abordar la situacion
+TE42:0
+ 24 
+-1 
+ 23 
+-1 
+
+[Slytherin] = 10
+IS10:0
+ 79 
+ 27 
+-1 
+ 26 
+
+Question4 = La emoción de descubrir algo fascinante
+TE43:0
+ 26 
+-1 
+ 25 
+-1 
+
+[Ravenclaw] = 10
+IS11:13
+ 79 
+ 29 
+-1 
+ 28 
+
+Question4 = La aplicación práctica de ese conocimiento
+TE44:0
+ 28 
+-1 
+ 27 
+-1 
+
+[Slytherin] = 10
+IS11:0
+ 79 
+ 31 
+-1 
+ 30 
+
+Question4 = El deseo de compartir lo aprendido con otros
+TE45:0
+ 30 
+-1 
+ 29 
+-1 
+
+[Hufflepuf] = 10
+IS12:15
+ 79 
+ 33 
+-1 
+ 32 
+
+Question4 = La oportunidad de profundizar en el tema
+TE46:0
+ 32 
+-1 
+ 31 
+-1 
+
+[Gryffindor] = 10
+IS13:0
+ 79 
+ 35 
+-1 
+ 34 
+
+Question5 =  Ideas creativas y originales
+TE47:0
+ 34 
+-1 
+ 33 
+-1 
+
+[Ravenclaw] = 10
+IS14:17
+ 79 
+ 37 
+-1 
+ 36 
+
+Question5 = Datos y hechos comprobados
+TE48:0
+ 36 
+-1 
+ 35 
+-1 
+
+[Slytherin] = 10
+IS14:0
+ 79 
+ 39 
+-1 
+ 38 
+
+Question5 = Experiencias personales y emociones
+TE49:0
+ 38 
+-1 
+ 37 
+-1 
+
+[Hufflepuf] = 10
+IS15:19
+ 79 
+ 41 
+-1 
+ 40 
+
+Question5 = Estrategias y planes detallados
+TE50:0
+ 40 
+-1 
+ 39 
+-1 
+
+[Gryffindor] = 10
+IS16:0
+ 79 
+ 43 
+-1 
+ 42 
+
+Question6 = Los encuentro emocionantes y motivadores
+TE51:0
+ 42 
+-1 
+ 41 
+-1 
+
+[Ravenclaw] = 10
+IS17:21
+ 79 
+ 45 
+-1 
+ 44 
+
+Question6 = Los abordo con lógica y razonamiento
+TE52:0
+ 44 
+-1 
+ 43 
+-1 
+
+[Slytherin] = 10
+IS17:0
+ 79 
+ 47 
+-1 
+ 46 
+
+Question6 = Busco la colaboración de otros para resolverlos
+TE53:0
+ 46 
+-1 
+ 45 
+-1 
+
+[Hufflepuf] = 10
+IS18:23
+ 79 
+ 49 
+-1 
+ 48 
+
+Question6 = Los veo como oportunidades para aprender
+TE54:0
+ 48 
+-1 
+ 47 
+-1 
+
+[Gryffindor] = 10
+IS19:0
+ 79 
+ 51 
+-1 
+ 50 
+
+Question7 = El exito y la colaboración del grupo
+TE55:0
+ 50 
+-1 
+ 49 
+-1 
+
+[Hufflepuf] = 10
+IS20:25
+ 79 
+ 53 
+-1 
+ 52 
+
+Question7 = El reconocimiento individual por tu contribución
+TE56:0
+ 52 
+-1 
+ 51 
+-1 
+
+[Slytherin] = 10
+IS20:0
+ 79 
+ 55 
+-1 
+ 54 
+
+Question7 = La capacidad de trabajar arduamente hacia una meta
+TE57:0
+ 54 
+-1 
+ 53 
+-1 
+
+[Gryffindor] = 10
+IS21:27
+ 79 
+ 57 
+-1 
+ 56 
+
+Question7 = La justicia y la igualdad en la distribución de tareas
+TE58:0
+ 56 
+-1 
+ 55 
+-1 
+
+[Ravenclaw] = 10
+IS22:0
+ 79 
+ 59 
+-1 
+ 58 
+
+Question8 = Lo encuentro gratificante y necesario
+TE59:0
+ 58 
+-1 
+ 57 
+-1 
+
+[Hufflepuf] = 10
+IS23:29
+ 79 
+ 61 
+-1 
+ 60 
+
+Question8 =  Depende de la recompensa final
+TE60:0
+ 60 
+-1 
+ 59 
+-1 
+
+[Slytherin] = 10
+IS23:0
+ 79 
+ 63 
+-1 
+ 62 
+
+Question8 = Prefiero trabajar eficientemente, aunque no sea arduo
+TE61:0
+ 62 
+-1 
+ 61 
+-1 
+
+[Ravenclaw] = 10
+IS24:31
+ 79 
+ 65 
+-1 
+ 64 
+
+Question8 = Debería ser reconocido y recompensado adecuadamente
+TE62:0
+ 64 
+-1 
+ 63 
+-1 
+
+[Gryffindor] = 10
+IS25:0
+ 79 
+ 67 
+-1 
+ 66 
+
+Question9 = Lealtad
+TE63:0
+ 66 
+-1 
+ 65 
+-1 
+
+[Hufflepuf] = 10
+IS26:33
+ 79 
+ 69 
+-1 
+ 68 
+
+Question9 = Inteligencia
+TE64:0
+ 68 
+-1 
+ 67 
+-1 
+
+[Ravenclaw] = 10
+IS26:0
+ 79 
+ 71 
+-1 
+ 70 
+
+Question9 = Valentia
+TE65:0
+ 70 
+-1 
+ 69 
+-1 
+
+[Gryffindor] = 10
+IS27:35
+ 79 
+ 73 
+-1 
+ 72 
+
+Question9 =  Astucia
+TE66:0
+ 72 
+-1 
+ 71 
+-1 
+
+[Slytherin] = 10
+IS28:0
+ 79 
+ 75 
+-1 
+ 74 
+
+Question10 = Es una parte fundamental de mi personalidad.
+TE67:0
+ 74 
+-1 
+ 73 
+-1 
+
+[Slytherin] = 10
+IS29:37
+ 79 
+ 77 
+-1 
+ 76 
+
+Question10 = Lo considero importante, pero no es lo único
+TE68:0
+ 76 
+-1 
+ 75 
+-1 
+
+[Ravenclaw] = 10
+IS29:0
+ 79 
+ 79 
+-1 
+ 78 
+
+Question10 = Prefiero centrarme en el trabajo en equipo que en metas individuales
+TE69:0
+ 78 
+-1 
+ 77 
+-1 
+
+[Hufflepuf] = 10
+IS30:39
+ 79 
+-1 
+-1 
+ 80 
+
+Question10 = No me siento cómodo/a con la ambición excesiva
+TE70:0
+ 80 
+-1 
+ 79 
+-1 
+
+[Gryffindor] = 10
+
+ 0 
+Command Block 1
+ 1 
+ 3 
+C71:0
+ 3 
+ 2 
+-1 
+-1 
+
+TITLE
+C72:0
+ 3 
+ 3 
+-1 
+-1 
+
+DERIVE CONF
+C88:0
+ 3 
+-1 
+-1 
+-1 
+
+RESULTS
+
+ 0 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 1 
+ 2 
+C11:0
+ 2 
+ 2 
+-1 
+-1 
+
+ASK [Question1]
+C12:0
+ 2 
+-1 
+-1 
+-1 
+
+EXIT
+
+ 0 
+ 1 
+TEXT "DESCUBRE TU CASA EN HOGWARTS (HARRY POTTER)"  FORMAT:  FONT=Serif SIZE=40 STYLE=Bold FCOLOR=0,64,128 POSITION=Center 
+ 2 
+TEXT "Tu casa de Hogwarts es: "  FORMAT:  FONT=Monospaced SIZE=20 FCOLOR=0,0,0 POSITION=Center 
+CONFIDENCE   FORMAT:       PROMPT_ONLY 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 0 
+ 0 
+
+

@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\bin\Debug\A10_EJERCICIO VECTORES.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\bin\Debug\A10_EJERCICIO VECTORES.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\bin\Debug\A10_EJERCICIO VECTORES.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO VECTORES.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO_VECTORES.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO_VECTORES.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO VECTORES.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO VECTORES.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO VECTORES.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A10_EJERCICIO VECTORES\A10_EJERCICIO VECTORES\obj\Debug\A10_EJERCICIO VECTORES.pdb

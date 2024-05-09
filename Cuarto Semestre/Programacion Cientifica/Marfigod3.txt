@@ -1,0 +1,156 @@
+----------INTERPOLACION------------------
+
+La interpolaci ´on consiste en determinar los par´ametros de un modelo y =
+f(x) que se ajuste mejor a los datos (x1, y1), ...,(xn, yn) que est´an sujetos
+a errores aleatorios producidos por incertidumbres en las mediciones o, por un
+deficiente control de las condiciones en el que se realiza un experimento.
+
+
+********polinomioUnico***********
+
+El problema de la interpolaci ´on consiste en estimar el valor de una funci ´on en un
+punto a partir de valores conocidos en puntos cercanos.
+En el caso de la interpolacion polin ´ omica ´ , la funci ´on inc´ognita se sustituye por
+un polinomio que coincide con aquella en los puntos conocidos.
+Se eligen los polinomios porque son f´aciles de evaluar y por el hecho fundamental
+de que dados n+ 1 puntos de abscisa distinta, (x0, y0),(x1, y1), ...,(xn, yn), existe
+exactamente un polinomio Pn(x) de grado no superior a n, que pasa por dichos
+puntos, es decir, tal que:
+Pn(xi) = yi, i = 0, 1, 2..., n 
+
+En la interpolaci ´on lineal, la funci ´on se sustituye por la recta que pasa por dos
+puntos. Tres datos se interpolan con un polinomio de segundo grado, gr´aficamente
+una par´abola que pasa por esos tres puntos.
+De acuerdo con lo anterior, se podr´ıa pensa1r que al aumentar el grado se obtiene
+mejor aproximaci ´on, pero esto es falso en general.
+
+La coincidencia del polinomio con muchos puntos de interpolaci ´on se consigue a costa de grandes oscilaciones
+en los intervalos entre nodos o puntos de interpolaci ´on dados. Asumiendo un polinomio de la forma:
+Pn(xi) = a0 + a1x + a2x
+2 + ... + anx^n
+
+
+
+*******Lagrange***********
+La obtenci ´on del polinomio de interpolaci ´on en forma normal requiere la resoluci ´on de un sistema de ecuaciones lineales, cuyo costo aritm´etico es del orden de
+n
+3
+, siendo n el n´umero de nodos.
+Para reducir este costo se puede tomar una base del espacio de polinomios m´as
+adecuada, en la que sea m´as c´omodo definir las condiciones de interpolaci ´on.
+Esta base, formada por polinomios Lin(x), i = 0, ..., n, dependientes de las abscisas x0, x1, ..., xn, de los nodos considerados, proporcionar´a el polinomio de interpolaci ´on sin hacer un c´alculo.
+Sea Lin(x) un polinomio de grado n, que se anule en todos los puntos xj
+, j =
+0, 1, ..., n, salvo en el i-esimo ´ , donde vale 1; es decir, tal que:
+Li(xj ) = 0 si j 6= i y Li(xi) = 1
+
+La existencia de este polinomio se deriva del resultado anterior, pero puede obtenerse directamente, sin necesidad de resolver un sistema, gracias a la siguiente
+f´ormula debida a Lagrange:
+Lin(x) = (x − x0)...(x − xi−1)(x − xi+1)...(x − xn)
+(xi − x0)...(xi − xi−1)(xi − xi+1)...(xi − xn)
+(4.10)
+Es inmediato comprobar entonces que el polinomio:
+Pn(x) = y0L0(x) + y1L1(x) + y2L2(x) + ... + ynLn(x)
+
+La unicidad se puede garantizar utilizando el hecho
+de que un polinomio de grado n puede tener a lo sumo n ra´ıces. Si dos polinomios
+de grado ≤ n interpolan n+ 1 puntos, su diferencia se anula a en dichos puntos, por
+lo que s´olo puede ser el polinomio id´enticamente nulo.
+
+*********newton********
+
+
+
+
+
+
+--------------CALCULO DE AREAS--------------
+
+Un area ´ es la superficie comprendida entre ciertos l´ımites 
+Los l´ımites definidos para las figuras geom´etricas determinan su ´area, ubicadas en el plano cartesiano, las funciones tambi´en definen ´areas bajo la curva que generan, el eje x y dos rectas perpendiculares a ´este.
+La operaci ´on que realiza el c´alculo de esta aproximaci ´on es la integracion´ , y la
+integral que representa a la funci ´on de la figura 5.1 es:
+I = integral de a b f(x)dx
+
+En forma m´as precisa, la integral I puede definirse a partir de aproximaciones
+rectangulares (superior e inferior). Para ello, se divide el intervalo [a; b] en n subintervalos iguales, de longitud h =
+(b−a)/n , mediante los puntos x0 = a, x1 = a + h,
+x2 = a + 2h, ..., xi = a + ih, ...,xn =  A continuacion se
+construyen los rect´angulos superior e inferior para cada subintervalo [xi; xi+1].
+
+Suponiendo que la funci ´on f(x) es creciente en el intervalo [a; b], En ese caso, la altura del rect´angulo inferior es f(xi) (extremo
+izquierdo) y la altura del rect´angulo superior es f(xi+1) (extremo derecho).
+La aproximacion rectangular inferior se define como la suma de las areas de todos los rectangulos inferiores
+
+
+*********reglas trapezoidales**********
+
+Es posible emplear un solo trapezoide (ver figura 5.5), que abarque el intervalo
+[a; b] que puede calcularse como:
+Ai = (xi+1 − xi)* (f(xi) + f(xi+1) / 2)
+
+Como puede observarse, el error es significativo con respecto al ´area real, dependiendo de la forma de la curva el error puede ser por exceso (´area mayor a la real)
+o por defecto (´area menor a la real), como en este caso.
+Si se divide el intervalo en m´as sub-´areas el error en el c´alculo de la integral disminuye.
+La forma mas sencilla de disminuir el error en el calculo del ´area es dividir el intervalo definido en n sub-intervalos de menor tama˜no y aproximar el ´area como la suma de las ´areas de cada uno de los trapezoides que se forman.
+Ampliando la regla del trapezoide se subdivide el intervalo [a; b] en n sub-intervalos
+de la misma longitud (h = (b − a)/n).
+
+!!!!!!Segmentos multiples
+
+
+IT (h) = b a f(x)dx = (b − a) [f(x0) + 2sum n-1- i=1 f(xi) + f(xn) / 2n]
+#
+
+
+En la figura 5.6 puede verse que este m´etodo permite tratar funciones no monotonas de manera directa, sin necesidad de distinguir entre los tramos crecientes y los
+tramos decrecientes.
+
+
+******Reglas de simpson*******
+
+Otra forma mas adecuada de obtener una aproximaci ´on m´as cercana a la real deuna integral, es usar polinomios de grado superior para unir los puntos y aproximarla funci ´on real.
+El m´etodo de Simpson no busca incurrir en un mayor n´umero de subdivisiones,sino de ajustar una curva de orden superior en lugar de una l´ınea recta como en la Regla Trapezoidal.
+
+Regla de Simpson 1/3 simple!!!!!!!!!!!!!
+
+Dada una funcion f(x), si entre f(a) y f(b) existe un tercer punto, entonces sera posible ajustar por ellos una par´abola, en la misma forma, si existen dos puntos entre f(a) y f(b), entonces por esos cuatro puntos se podra ajustar una curva de grado tres, y asi sucesivamente
+
+
+Esta regla resulta cuando se utiliza una interpolaci ´on polinomial de segundo orden:
+h =Z b a f(x)dx = Z b a f2(x)dx 
+La funcion f2, es la interpolacion polinomial de segundo orden. Esto se logra con el polinomio de Lagrange de segundo grado.
+Para b hacemos la siguiente sustitucion:
+h =(b − a) /2 ⇒ b = 2h + a
+
+Se tiene que:
+I(f) ≈ h/3
+[f(a) + 4f ((a + b)/2)+ f(b)]
+
+La ecuacion anterior se conoce como la regla de Simpson 1/3, y la especificacion 1/3 se origina del hecho que h esta dividida en tres intervalos.
+
+Regla de Simpson 1/3 de segmentos multiples!!!!!!!!
+
+La aplicacion m ultiple utiliza la misma idea que la regla de Simpson con la diferencia que se divide el intervalo de integracion en muchos segmentos o subintervalos, como se observa en la figura 5.8. Es decir en lugar de 2 segmentos se hace para n segmentos donde n es de la forma 2k.  Por lo tanto tomamos h = (b−a)/n.
+
+
+La ecuaci ´on anterior es la regla de Simpson 1/3 generalizada a un numero par de segmentos e impar de puntos.
+Para multiples segmentos se tiene:
+IT (f) ≈[ f(x0) + 4 sum n−1 i=1,3,5...f(fxi) + 2 sum n−2
+j=2,4,6...f[xj] + f(xn) ] / 3n
+
+La ecuacion anterior es la regla de Simpson 1/3 generalizada a un numero par de segmentos e impar de puntos.
+
+!!!!!!!!!Regla de Simpson 3/8 simple
+
+A continuaci ´on se describe la regla de integraci ´on de Simpson 3/8 para la integracion cerrada ´ , es decir, para cuando los valores de la funci ´on en los extremos de
+los l´ımites de integraci ´on son conocidos.
+Adem´as de aplicar la regla trapezoidal con segmentaci ´on m´as fina, otra forma de
+obtener una estimaci ´on m´as exacta de una integral es con el uso de polinomios de
+orden superior para conectar los puntos (en lugar de utilizar l´ıneas para conectarlos).
+Las reglas de Simpson son las f´ormulas que resultan al tomar las integrales bajo
+los polinomios que conectan a los puntos.
+La derivaci ´on de la Regla de los 3/8 de Simpson es similar a la regla de 1/3,
+excepto que se determina el ´area bajo una par´abola de tercer grado que conecta 4
+puntos sobre una curva dada. La forma general de la par´abola de tercer grado es:
+

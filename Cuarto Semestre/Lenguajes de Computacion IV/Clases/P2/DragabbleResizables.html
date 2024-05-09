@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+
+    <style type="text/css">
+
+        #contenedor{
+            background-color: chartreuse;
+            width: 400px;
+            height: 300px;
+        }
+        #rendimensionable{
+            background-color: cornflowerblue;
+            width: 200px;
+            height: 100px;
+        }
+        #tambien{
+            background-color: blueviolet;
+            width: 200px;
+            height: 100px;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+    <div id="arrastra">Arrastrame</div>
+    
+    <div id="contenedor">
+        <span id="span">Estoy encerrado aqui!</span>
+    </div>
+    <div id="rendimensionable"></div>
+    <div id="tambien"></div>
+
+
+    <script type="text/javascript">
+
+        $("#arrastra").draggable();
+        $("span").draggable({containment:"#contenedor"});
+        $("#redimensionable").resizable({
+            grid:50,alsoResize:"#tambien",
+            rezise: function(event,ui){
+                if ($("#redimensionable").width()>400){
+                    alert("Ya es lo suficientemennte grande")
+                }
+            }
+        })
+        $("#tambien".resizable());
+
+    </script>
+    
+</body>
+</html>

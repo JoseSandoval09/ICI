@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\bin\Debug\SerieFibonacci.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\bin\Debug\SerieFibonacci.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\bin\Debug\SerieFibonacci.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\SerieFibonacci\obj\Debug\SerieFibonacci.pdb

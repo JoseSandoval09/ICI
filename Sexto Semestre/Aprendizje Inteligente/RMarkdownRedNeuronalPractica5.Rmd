@@ -1,0 +1,108 @@
+# UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
+## DEPARTAMENTO DE CIENCIAS DE LA COMPUTACION
+## CURSO: APRENDIZAJE INTELIGENTE
+## MAESTRO: FRANCISCO JAVIER
+## ALUMNO: JOSE LUIS SANDOVAL PEREZ
+## SEMESTRE: ENERO-JUNIO
+
+#PRACTICA 5 RED NEURONAL EN R
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r librerias, echo=TRUE}
+library(readr)
+library(dplyr)
+library(caret)
+library(e1071)
+library(tidyverse)
+```
+```{r datos-iris, echo=TRUE}
+# Define la ruta al archivo CSV
+ruta_archivo <- "C:/Users/josee/OneDrive/Escritorio/College/UAA/ICI/Sexto Semestre/Aprendizje Inteligente/iris.csv"
+
+# Lee el archivo CSV desde la ruta especificada
+datos <- read.table(file=ruta_archivo,sep = ";", header = TRUE, dec = ".", quote = "", fill = TRUE)
+head(datos)
+
+muestra <- sample(1:150, 30) ##partir la muestra y con estos datos se entrenara el modelo
+muestra 
+
+
+```
+
+```{r delete-categorica , echo=TRUE}
+X <- datos[, 1:4]
+print(head(X))
+```
+
+```{r predecirenY, echo=TRUE}
+Y <- datos[, 5]
+print(head(Y))
+
+```
+
+```{r separaciondatos, echo=TRUE}
+
+# Separar los datos con el 70% de los datos para entrenamiento y el 30% para el testing
+set.seed(0)
+indices <- createDataPartition(Y, p = 0.7, list = FALSE)
+train_data <- datos[indices, ]
+test_data <- datos[-indices, ]
+
+# Convertir la variable objetivo en factor con los mismos niveles en ambos conjuntos de datos
+train_data$Y <- factor(train_data$Y, levels = levels(test_data$Y))
+
+
+```
+
+```{r instancia-red, echo=TRUE}
+# Inicializar la instancia de la red neuronal
+instancia_red <- train(x = train_data[,1:4], y = train_data[,5], method = "mlp", trControl = trainControl(method="cv"))
+print(instancia_red)
+
+```
+
+
+```{r entrenamiento-fit, echo=TRUE}
+# Entrenamiento del modelo llamando al fit
+modelo_red_neuronal <- train(x = train_data[,1:4], y = train_data[,5], method = "mlp", trControl = trainControl(method="cv"))
+
+
+```
+
+```{r imprimir-predicciones, echo=TRUE}
+# Obtener las predicciones del modelo
+predicciones <- predict(modelo_red_neuronal, newdata = test_data[,1:4])
+
+# Imprimir las predicciones
+print(predicciones)
+
+```
+```{r indices, echo=TRUE}
+# Calcular los índices de calidad del modelo
+indices_general <- function(MC, nombres=NULL){
+    precision_global <- sum(diag(MC)) / sum(MC)
+    error_global <- 1 - precision_global
+    precision_categoria <- as.data.frame(t(t(MC) / colSums(MC)))
+    if (!is.null(nombres)){
+        colnames(precision_categoria) <- nombres
+    }
+    return(list("Matriz de confusion" = MC,
+                "Precision Global" = precision_global,
+                "Error Global" = error_global,
+                "Precision por categoria" = precision_categoria))
+}
+
+prediccion <- predict(instancia_red, newdata = test_data[,1:4])
+MC <- confusionMatrix(prediccion, test_data[,5])
+indices <- indices_general(MC$confusion)
+for (k in names(indices)) {
+    print(c(k, indices[[k]]))
+}
+
+
+```
+
+

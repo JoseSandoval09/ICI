@@ -1,0 +1,343 @@
+
+-------------RAICES DE ECUACIONES--------------------
+
+Los metodos para calcular una raız real de una ecuacion involucran dos pasos, en
+primer lugar la determinacion del intervalo de busqueda (es decir el intervalo al
+que la raız pertenece), siempre que la ecuacion este vinculada a un sistema fısico
+y en segundo lugar la seleccion y aplicacion de un m´etodo num´erico apropiado
+para determinar la raız con la exactitud adecuada.
+
+Estos metodos se clasifican en dos categor´ıas:
+-Metodos cerrados
+-Metodos abiertos
+Los metodos cerrados (como el de la biseccion y el de la falsa posicion), son
+aquellos que usan intervalos, se caracterizan por ser siempre convergentes pero la
+velocidad de convergencia es lenta.
+Los metodos abiertos (como el de Newton-Raphson), requieren informacion unicamente de un punto, o de dos pero que no necesariamente encierran a la ra´ız, la
+convergencia es mas rapida (aunque algunas veces divergen).
+
+
+****METODOS CERRADOS****
+
+__________GRAFICO__________
+
+Se tiene un sistema de ecuaciones no lineales, la curva de la funcion y la recta
+que representa al eje de los n´umeros reales, para resolverlo mediante el metodo
+grafico se requiere:
+Definir un intervalo de valores [a,b] para x.
+Calcular el valor de la funcion f(x) para cada punto del intervalo.
+Y luego graficarla para verificar que f(x) toma, dentro de dicho intervalo, valores de signo opuesto (Teorema de Bolzano), lo que confirmar´ıa la
+existencia de al menos una raız.
+El resultado se obtiene mediante la interpolacion directa entre los valores de x que
+corresponden a los de la funci ´on que presentan signos opuesto.
+
+_____________BISECCION____________
+
+El m´etodo de la bisecci ´on, conocido tambi´en como de corte binario, de particion´
+en dos intervalos iguales, de busqueda binaria ´ o de Bolzano es un m´etodo cerrado
+que se basa en los siguientes teoremas.
+
+-Teorema del valor intermedio
+-Teorema de Bolzano
+
+
+As´ı pues, si se tiene una funci ´on f(x) continua en el intervalo [xi, xs], con f(xi)
+y f(xs) de signos opuestos, por el teorema anterior, existe un valor x∗incluido enel intervalo (xi, xs) tal que f(x∗) = 0.
+El m´etodo requiere de dividir el intervalo a la mitad y localizar la mitad que contiene a la ra´ız.
+El proceso se repite y su aproximacion mejora a medida que los subintervalos se
+dividen en intervalos mas y mas peque˜nos; la primera aproximacion a la raız, se determina como: Xm= (xi+xs)/2
+
+
+Para determinar en qu´e subintervalo est´a situada la ra´ız, hay que considerar lo
+siguiente:
+
+-Si f(xM) = 0, entonces la raız es igual a xM .
+-Si f(xi) ∗ f(xM) < 0, la raız esta en el primer subintervalo (xi, xM )
+-Si f(xi) ∗ f(xM) > 0, la raız esta en el segundo subintervalo (xM, xs).
+
+Se calcula una nueva aproximacion a la raız en el nuevo subintervalo y se continua con las iteraciones hasta que se alcanza el margen de error fijado de antemano (ε).
+Una de las ventajas de este m´etodo es que siempre es convergente.
+Las desventajas son que converge muy lentamente y que, si existe mas de una raız
+en el intervalo, el metodo solo permite encontrar una de ellas.
+
+__________FALSA POSICION__________
+
+Teorema de la Regla Falsa:
+Sea f(x) un polinomio de coeficientes reales, con grado f(x) ≥ 2, y sean a y b
+numeros reales (a < b) tales que:
+1. f(a) ∗ f(b) < 0
+2. f′′(x) no tiene raices en [a, b]
+Si β1 es el extremo del intervalo [a, b], tal que f(β1) ∗ f′′(β1) < 0 (es decir,β1 = a si f(a) ∗ f′′(a) < 0 ´o β1 = b si f(b) ∗ f′′(b) < 0) y a1 es el extremo delintervalo [a, b] tal que f(a1) ∗ f′′(a1) > 0 (es decir, a1 = a si f(a) ∗ f′′(a) > 0´o a1 = b si f(b) ∗ f′′(b) > 0), entonces la sucesi ´on βn, donde β1 es como ya se
+dijo, y β1 = a1 −f(a1)/f(bn) − f(a1) * (β1 − α1)
+para n = 1, 2, 3, ..., converge a la ´unica ra´ız ζ de f(x) en [a, b].
+
+El m´etodo es similar al de la bisecci ´on salvo que la siguiente iteraci ´on se toma en
+la intersecci ´on de una recta entre el par de valores de x y el eje de las abscisas en
+lugar de tomar el punto medio. El reemplazo de la curva por una l´ınea recta da
+una posicion falsa ´ de la ra´ız, de aqu´ı el nombre del m´etodo tambi´en llamado de la
+regla falsa.
+Para aplicarlo se eligen los extremos xi y xs del intervalo entre los que se encuentra la ra´ız, verificando que se cumpla que f(xi) ∗ f(xs) < 0.
+
+El valor de xM , calculado con la ecuaci ´on 2.4, se reemplaza a uno de los dos
+valores, xi o xs que produzca un valor de la funci ´on que tenga el mismo signo de
+f(xM). De esta manera los valores xi y xs siempre encierran a la ra´ız.
+    -Si f(xM) = 0 el proceso termina.
+    -Si f(xM) tiene el mismo signo de f(xi), el pr´oximo paso es elegir xi = xM
+    y xs = xs.
+    -Si f(xM, tiene el mismo signo de f(xs)), el pr´oximo paso es elegir xi = xi
+    y xs = xM.
+
+Una de la ventajas de este metodo es que siempre es convergente, y lo hace mas
+rapidamente que el m´etodo de la biseccion.
+Una desventaja es que si existe mas de una ra´ız en el intervalo, el metodo permite
+encontrar solo una de ellas.
+
+****METODOS ABIERTOS******
+
+_________NEWTON_RAPHSON___________
+
+Una primera aproximaci ´on al m´etodo es partir del m´etodo de la falsa posici ´on,
+y en vez de trazar una cuerda entre los dos extremos del intervalo, se traza una
+tangente. El punto donde esta tangente corta al eje x representa una aproximaci ´on
+mejorada de la ra´ız.
+
+una ventaja de este m´etodo es su r´apida convergencia y algunas desventajas son que no siempre converge, depende de la funci ´on,
+adem´as no es conveniente en caso de ra´ıces m ´ultiples y puede alejarse del ´area de
+inter´es si la pendiente es cercana a cero (lo que muestra una tendencia a caer en
+un m´aximo o en un m´ınimo de una funci ´on).
+
+
+****CONDICIONES DE CONVERGENCIA*****
+
+Condiciones de convergencia
+    1. La existencia de al menos una Ra´ız.
+    Dado un cierto intervalo de trabajo [a, b], dentro del mismo debe cumplirse
+    que f(a) ∗ f(b) < 0.
+
+    2. Unicidad de la Ra´ız.
+    Dentro del intervalo de trabajo [a, b], la derivada de f(x) debe ser diferente
+    de cero.
+
+    3. Concavidad.
+    La gr´afica de la funci ´on f(x) dentro del intervalo de trabajo [a, b], debe ser
+    c´oncava, hacia arriba o hacia abajo. Para ello debe verificarse que:
+    f′′(x) <= 0 ´o f′′(x) >= 0 para toda x que pertenezca a [a, b]
+    4. Interseccion de la Tangente a f(x), dentro de [a,b] ´
+    Se debe asegurar que la tangente a la curva en el EXTREMO del intervalo
+    [a, b] en el cual f′(x) sea m´ınima, intersecte al eje x dentro del intervalo [a, b].
+    De esta manera se asegura que la sucesi ´on de valores de xi caigan dentro de[a, b].
+
+
+-------------APROXIMACION SISTEMA DE ECUACIONES---------------------
+
+Matriz: 
+    Es una tabla o arreglo rectangular de n´umeros, los cuales se denominan elementos de la matriz; en este arreglo, las l´ıneas horizontales se denominan filas y las l´ıneas verticales se denominan columnas. A una matrizcon m filas y n columnas se le denomina matriz (m ×n), y m y n son sus dimensiones. La dimensi ´on (u orden) de una matriz se da con el n´umero de filas primero y el n´umero de columnas despu´es.
+
+Una matriz con una sola columna o una sola fila se conoce como vector, y se interpreta como un elemento del espacio eucl´ıdeo.
+La diagonal principal de una matriz es la diagonal que va desde la esquina superior izquierda hasta la esquina inferior derecha, desde luego esto solo ocurre en
+aquellas matrices donde m = n
+
+Tipos de matrices  
+
+    POR SU ORDEN
+
+        Vector fila
+            Su orden es [1 × n] ya que consisten de una fila y n columnas
+            A = [ a11 a12 a13... a1n]
+            Matriz (1 × n)
+
+        Vector columna
+            Su orden es [m × 1] ya que consisten de m filas y una columna.
+
+        Matriz cuadrada
+            Su orden es (m × m), por lo que normalmente se conocen simplemente como de
+            orden m.
+
+        Matriz rectangular
+        Su orden es (m×n) pero el numero de filas y el de columnas no coincide, es decir m =! n.
+
+    POR SU CONTENIDO
+        Matrices llenas pero no muy grandes
+            Por llenas se entiende que poseen pocos elementos nulos y por no muy grandes
+            que el n´umero de ecuaciones es de unos pocos miles a lo sumo. Estas matrices
+            aparecen en problemas estad´ısticos, matem´aticos, f´ısicos y de ingenier´ıa.
+            Para resolver este tipo de matrices generalmente, se requiere de metodos directos ´ .
+        
+        Matrices vac´ıas y muy grandes
+            En oposici ´on al caso anterior, vac´ıas indica que hay pocos elementos no nulos y
+            adem´as est´an situados con una cierta regularidad. En la mayor´ıa de estos casos el
+            numero de ecuaciones supera los miles y puede llegar en ocasiones a los millones. Estas matrices son comunes en la resoluci ´on de ecuaciones diferenciales de problemas de ingenier´ıa.
+            Para resolver este tipo de matrices generalmente, se requiere de metodos indirectos (o de aproximaciones sucesivas).
+
+    POR SUS ELEMENTOS
+
+        Matriz nula
+            Es aquella en la que todos sus elementos son nulos, se representa por Om×n.
+        
+        Matriz escalonada
+            Es una matriz en la que, al principio de cada fila (columna) hay al menos un
+            elemento nulo mas que en la fila (columna) anterior.
+
+        Matriz triangular superior
+            Es una matriz cuadrada en la que todos los elementos que est´an por debajo de su
+            diagonal principal son nulos.
+
+        Matriz triangular inferior
+            Es una matriz cuadrada en la que todos los elementos que est´an por encima de su
+            diagonal principal son nulos
+
+        Matriz diagonal
+            Es una matriz cuadrada en la que todos los elementos que no est´an en su diagonal
+            principal son nulos.
+
+        Matriz escalar
+            Es una matriz cuadrada en la que todos los elementos que est´an en su diagonal
+            principal son iguales.
+
+        Matriz identidad (unidad)
+            Es una matriz cuadrada en la que todos los elementos que est´an en su diagonal
+            principal son 1.
+
+
+Determinantes:Es una funcion la cual acepta como entrada una matriz de m × m y cuya
+salida puede ser un numero real, cero o un numero complejo llamado determinante de la matriz de entrada.
+
+********Propiedades de los determinantes******************
+    1. Si una matriz tiene una fila o columna con valores nulos, el determinante
+    vale cero
+
+    2. Si una matriz tiene dos filas iguales o proporcionales, su determinante es
+    nulo.
+
+    3. Si se permutan dos l´ıneas paralelas de una matriz cuadrada su determinante
+    cambia de signo
+
+    4. Si se multiplican todos los elementos de una l´ınea de un determinante por
+    un n´umero, el determinante queda multiplicado por ese n´umero
+
+    5. Si a una l´ınea de una matriz se le suma otra l´ınea multiplicada por un n´umero, el determinante no cambia
+
+    6. El determinante de una matriz es igual al de su transpuesta
+
+    7. Si A tiene matriz inversa A^-1, se verifica que det(A^-1)= 1/det A
+
+=*******Cofactores (regla de Laplace) ********
+    NO LO VIMOS pero basicamente es el proceso donde, agarrando un elemento de la matriz,
+    la columna y fila de donde está ese elemento desaparecen, creando el restante como un nuevo determinante y
+    multiplicando el valor que te pidan dependiendo de la coordenada.
+
+    Se aplica la regla de Laplace (los signos de cada casilla), ej:
+    Matriz 3x3
+    {+, -, +}
+    {-, +, -}
+    {+, -, +}
+
+    EJ: Cofactor de a(1,1)
+
+    {1, 0, 3}       {-, -, -}      (+1) | -1, 2 |
+    {4, -1, 2} -->  {-, -1, 2} -->      | -2, 1 | --> (+1) ((-1 * 1) - (2 * -2))  
+    {0, -2, 1}      {-, -2, 1}                        = (+1) (-1 - (-4))
+                                                      = (+1) (-1 + 4)
+                                                      = 3
+                                                      (ESTO ES EL COFACTOR!!!!!!!)
+    Sacas el 1
+    y le pones
+    el signo
+    de Laplace
+
+    == Matriz Inversa ==
+    La matriz inversa hace la verificación de las matrices posible.
+    Se puede demostrar que si una matriz es multiplicada por su inversa, 
+    su resultado será esa misma matriz.
+
+    A * I = A
+
+    Dada una matriz A, es posible encontrar una matriz B tal que:
+    A * B = I?
+
+    Propiedades:
+        - Si existe, es unica.
+        - (A * B)^-1 = A^-1 * B^-1
+        - (A^T)^-1 = A(-1)^T 
+        A^T es una matriz transpuesta.
+        - (A^-1)^-1 = 1
+        La inversa de una matriz inversa es 1.
+        - Una matriz puede ser inversa si su determinante es distinto de 0.
+        - A^-1 = 1/det(A) * adj(A^T).
+        
+    =*******Soluciones de Matrices / Sistemas de ecuaciones *******
+    
+    Metodos directos: 
+        - Dan soluciones exactas
+        - No dan errores por truncamiento.
+        - Se usan cuando la mayor parte de elementos son distintos de 0 y las matrices no son
+        grandes.
+        - Es algo complicado de implementar.
+
+    Metodos indirectos:
+        - Encuentra una solución dado por el límite de una secuencia de soluciones aproximadas.
+        - Tienen errores de truncamiento.
+        - Se usan para matrices grandes, y gran parte de los elementos son 0.
+        - Son sencillos de implementar.
+        - Requieren aproximación inicial.
+        - Se puede interrumpir las iteraciones y tener una aproximación.
+
+    Al agregarle los terminos independientes de un sistema de ecuaciones a la ultima columna 
+    de una matriz, se le llama matriz ampliada del sistema.
+    
+    Si tiene solución, es un sistema compatible.
+    Si no tiene, es incompatible.
+
+    Un sistema compatible puede ser determinado si su solución es única, o indeterminado si
+    la solución no es única.
+
+    Operaciones elementales:
+        - Intercambio de dos filas o renglones.
+        - Multiplicación de una fila por un escalar no nulo.
+        - Suma a una fila de una combinación lineal no nula de otro renglón.
+
+        -- Regla de Cramer -- (directo)
+        En este se usan determinantes. Es determinado si y solo si det(A) != 0.
+        Los terminos independientes se forman en una columna, y dependiendo de la dimension de la
+        matriz, se reemplaza cada columna con esta columna de terminos independientes, después de
+        hace la formula de:
+
+        xN = det(An) / det(A)
+
+        Siendo N la columna que reemplazaste, y la solución de esa misma X.
+
+        -- Gauss & Gauss Jordan no los voy a escribir pq ya me los sé, perdón. --
+
+******+Ajuste de Curvas ******
+
+    El ajuste de curvas es la evaluación de F en algún punto x en el conjunto de datos tabulados.
+
+    Tipos de ajuste:
+    - Aproximación: Se aproxima a lo observado
+        Se da confianza fuera del rango de la muestra y es robusto al ruido (irregularidad aleatoria)
+    - Interpolación: Se da exactamente lo observado.
+        Se da confianza dentro del rango de la muestra y no es robusto al ruido.
+
+*****   Metodo de Minimos Cuadrados ****+
+
+    f(x) = a0 + a1(x)
+    
+    a1 = Pendiente de la recta.
+    a0 = Punto de intersección sobre la ordenada.
+
+    Si a1 > 0 tiene una relación lineal positiva, si no, es negativa.
+
+    Para calcular la pendiente (a1) tenemos:
+    a1 = n * sum(xy) - sum(x)sum(y) / n * sum(x^2) - (sum(x))^2
+    Para calular la interescción (a0) tenemos:
+    a0 = sum(y) - a1(sum(x)) / n
+
+
+
+
+
+
+
+
+
+

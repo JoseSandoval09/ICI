@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A6Rombo", "A6Rombo\A6Rombo.csproj", "{DD4264E1-7C89-4039-8AEB-13AD4231603E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4264E1-7C89-4039-8AEB-13AD4231603E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4264E1-7C89-4039-8AEB-13AD4231603E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4264E1-7C89-4039-8AEB-13AD4231603E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4264E1-7C89-4039-8AEB-13AD4231603E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1999D82D-821B-470D-903F-E45A94191E91}
+	EndGlobalSection
+EndGlobal

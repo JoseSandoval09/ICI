@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ejercicio 1 </title>
+    </head>
+    <body>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.145.0/three.min.js"></script>
+
+
+        
+        <script>
+
+            //create scene
+            var scene= new THREE.Scene();//creando espacio
+            scene.background=new THREE.Color(0x0FBFFD8);//fondo de color
+
+            //add camera
+            //valores de perspectiva
+            //FOV:FIELD OF VIEW
+            //ASPECT:ANCHO/ALTURA
+            //NEAR: CAMERA - PUNTO MAS CERCANO
+
+
+            var camera= new THREE.PerspectiveCamera(75,window.innerWidth/window.innerHeight);
+
+            //renderer
+            var renderer= new THREE.WebGLRenderer();
+            renderer.setSize(window.innerWidth,window.innerHeight);
+            document.body.appendChild(renderer.domElement);
+
+           
+            //creacion de cubo
+            var geometry= new THREE.BoxGeometry();
+            var material= new THREE.MeshBasicMaterial({
+                color: 0x0008EA2,wireframe:true
+
+            });
+            var cube= new THREE.Mesh(geometry,material);
+
+            //agregando el cubo a la scena
+            scene.add(cube);
+            camera.position.z=2;//Ver objeto mas cercano o lejano
+            renderer.render(scene,camera);
+
+            var animate= function(){
+                requestAnimationFrame(animate);
+                cube.rotation.x+= 0.15;
+                cube.rotation.y+= 0.05;
+                cube.rotation.z+= 0.01;
+                renderer.render(scene,camera); //renderizar para que cubo se mueva
+            }
+            //funcion animada
+            animate();
+
+
+        </script>
+        
+    </body>
+</html>

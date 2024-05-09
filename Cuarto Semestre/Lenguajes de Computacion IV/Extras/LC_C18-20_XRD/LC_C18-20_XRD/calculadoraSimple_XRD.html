@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora simple</title>
+    <style>
+        body{
+        background-color: white;
+        text-align: center;
+        font-size: large;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        }
+        div { 
+            background-color: rgb(116, 186, 229);
+            width: 830px;
+            margin: 1em auto;
+            padding: 2em;
+            border-radius: 0.8em;
+            text-align: center;
+           
+        }
+        .boton{
+            border-radius: 24%;
+            border:0;
+            background-color:grey;
+            color: white;
+            display: grid;
+            place-items: center;
+            text-align: center;
+            margin: 5px;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 18px;
+            width: 0.01px;
+            height: 0.1px;
+            
+        }
+        #back{
+            background-color: rgb(0, 0, 0);
+            width: fit-content;
+            height: fit-content;
+            margin: 0em auto;
+            text-align: center;
+        }
+        #azul{
+            width: 80px;
+            height: 80px;
+            text-align: left;
+            position: absolute;
+            right: 450px;
+            top:210px; 
+            font-size: 16px;
+        }
+        #igual{
+            width: 250px;
+            height: 10px;
+            border-radius: 0%;
+        }
+        label{
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <h4><strong>C A L C U L A D O R A &nbsp&nbsp S I M P L E</strong></h4>
+    <br>
+<div id="back">
+        <label for="num1" style="color: white;">Ingresa un número:</label>
+        <input id="num1" value="0" type="number" placeholder="Entero 1">
+        <br>
+        <label for="num2" style="color: white;">Ingresa un número:</label>
+        <input id="num2" value="0"  type="number" placeholder="Entero 2">
+        <br>
+        <table>
+        <td>
+            <div class="boton" id="suma">+</div>
+        </td>
+        <td>
+            <div class="boton" id="resta">-</div>
+        </td>
+        <tr>
+            <td>
+                <div class="boton" id="produto">*</div>
+            </td>
+            <td>
+                <div class="boton" id="division">/</div>
+            </td>
+        </tr>
+    </table>
+    <div id="azul"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+    <div class="boton" id="igual" style="background-color: red"> = </div>
+</div>
+<script type="text/javascript">
+    let numb2AsNumber=0;
+    let numb1AsNumber=0;
+    var resultado=0;
+
+    let num1=document.querySelector('#num1');
+    num1.addEventListener('input',function(){
+        let numb1=num1.value;
+        numb1AsNumber=parseFloat(num1.value);
+    });
+
+    let num2=document.querySelector('#num2');
+    num2.addEventListener('input',function(){
+        let numb2=num2.value;
+        numb2AsNumber=parseFloat(num2.value);
+    });
+   
+
+    document.getElementById("suma").onclick = function() {
+       resultado=numb1AsNumber+numb2AsNumber;
+       document.getElementById("azul").innerHTML="Suma: "+ numb1AsNumber+"+"+numb2AsNumber;
+    }
+    document.getElementById("resta").onclick = function() {
+        resultado=numb1AsNumber-numb2AsNumber;
+       document.getElementById("azul").innerHTML="Resta: "+ numb1AsNumber+"-"+numb2AsNumber;
+    }
+    document.getElementById("produto").onclick = function() {
+        resultado=numb1AsNumber*numb2AsNumber;
+        document.getElementById("azul").innerHTML="Producto: "+ numb1AsNumber+"*"+numb2AsNumber;
+     }
+    document.getElementById("division").onclick = function() {
+        resultado=numb1AsNumber/numb2AsNumber;
+        document.getElementById("azul").innerHTML="Division: "+ numb1AsNumber+"/"+numb2AsNumber;
+    }
+    document.getElementById("igual").onclick = function() {
+        //alert(resultado);
+        document.getElementById("azul").innerHTML="Resultado: "+resultado;
+     }
+</script>
+</html>

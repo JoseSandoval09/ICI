@@ -1,0 +1,9583 @@
+Corvid Ver. 3.0.0
+7207876781285440221944003572012773100727516158838810037456127381571212541139262787501471046446175550726154510285118850345101623750021308736787853625143101687132556765073863001688231902566664712603425804490416276037872875664700673313775814156177000028109105361061851011665868711057718887171063601605420001202004666037
+
+
+
+
+False
+
+
+/CORVID/corvidsr
+
+
+
+False
+
+False
+255,255,255
+BCOLOR=255,255,255 FCOLOR=0,0,0 FONT=SANSERIF SIZE=12 STYLE=PLAIN POSITION=LEFT INDENT=5 CTRLW=25 CTRLR=5
+
+   OK   
+Back
+Restart
+True
+False
+ 61 
+A_ContinuidadServicio
+ 0 
+¿El sistema debe operar en entornos donde la continuidad del servicio es critica?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+El_sistema_si_debe
+El sistema si debe
+
+
+
+
+
+
+False
+El_sistema_no_debe
+El sistema no debe
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_RedundanciaAutomatica
+ 0 
+¿La redundancia automatica es preferible para mantener la disponibilidad?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_preferible
+Si es preferible 
+
+
+
+
+
+
+False
+No_es_preferible
+No es preferible
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_MultiplesIntentos
+ 0 
+¿Es aceptable para el sistema realizar multiples intentos antes de considerar una operacion como fallida?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_aceptable
+Si es aceptable
+
+
+
+
+
+
+False
+No_es_aceptable
+No es aceptable
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Sanity_Checking
+ 4 
+Tactica recomendada: Sanity CheckingCheca la validez de lógica de operaciones especificas o salidas de un componente. La táctica es típicamente basada en el conocimiento del diseño interno, el estado del sistema, o la naturaleza de la información, se usa más en las interfaces para examinar el flujo de información.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Retry
+ 4 
+Tactica recomendada: Retry
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Deteccion_De_Excepciones
+ 4 
+Tactica recomendada: Deteccion De Excepciones.Detección de una condición del sistema que altera el flujo normal de ejecucion.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_EconomiaDeRecursos
+ 0 
+¿La economia de recursos es una prioridad para el sistema?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+si_es_prioridad
+La economia de recursos si es prioridad
+
+
+
+
+
+
+False
+no_es_prioridad
+La economia de recursos no es prioridad
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+RemovalFromService
+ 4 
+Tactica recomendada: RemovalFromServicePoner un componente temporalmente como fuera de servicio para mitigar los efectos mientras se corrigen sus errores
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_RedistribucionDinamica
+ 0 
+¿La redistribucion dinamica de responsabilidades entre componentes es esencial para adaptarse a cambios en tiempo real?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+si_es_escencial
+La redestribucion si es escencial
+
+
+
+
+
+
+False
+no_es_escencial
+La redestribucion no es escencial
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+PredictiveModel
+ 4 
+Tactica recomendada: PredictiveModelSe combina un modelo predictivo con un sistema de monitoreo para verificar el estado de salud del sistema, que significa que opere con parámetros saludables de funcionamiento
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_ObservacionGradual
+ 0 
+¿La observacion gradual antes de la implementacion completa es preferible para garantizar un rendimiento optimo?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+es_preferible
+Quiero garantizar un rendimiento optimo es preferible
+
+
+
+
+
+
+False
+No_es_preferible
+No es preferible
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+SoftwareUpgrade
+ 4 
+Tactica recomendada: SoftwareUpgradeAlcanzar objetivos mediante ejecuciones que no afecten la globalidad del software en el formato hitless in-service que agrega nuevas funcionalidades y capacidades.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_CambiosDinamicos
+ 0 
+¿La capacidad de cambiar dinamicamente la configuracion del sistema es esencial para satisfacer los requisitos cambiantes del usuario?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+cambie_dinamicamente
+Necesito que mi sistema cambie dinamicamente
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario que cambie
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+TimeOut
+ 4 
+Tactica recomendada: TimeOutGenera una excepción cuando un componente detecta cuando cualquier componente que falla para satisfacer las restricciones de tiempo.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_ToleranciaFallas
+ 0 
+¿La tolerancia a fallas del sistema es más importante que la conservación de recursos?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_importante
+Si es importante
+
+
+
+
+
+
+False
+No_es_importante
+No es importante
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+SelfTest
+ 4 
+Tactica recomendada: SelfTestComponentes  puede correr funciones para probarse a sí mismos
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_RecuperacionAutomatica
+ 0 
+¿La capacidad de recuperar automáticamente después de una falla es preferible en lugar de intervención manual?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+recuperacion_automatica
+Si deseo hacer un recuperacion automatica
+
+
+
+
+
+
+False
+intervencion_manual
+Prefiero una intervencion manual
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ExceptionHandling
+ 4 
+Tactica recomendada: ExceptionHandling
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Rollback
+ 4 
+Tactica recomendada: RollbackPermite que el sistema revierta un estado previo bueno, después de la detección de la falla, una vez que el buen estado es alcanzado la ejecución puede terminar
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+M_Responsabilidades
+ 0 
+¿Las responsabilidades  A y B dentro de un modulo sirven al mismo proposito?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+sirven_para_lo_mismo
+Si sirven para lo mismo
+
+
+
+
+
+
+False
+No_sirven_para_lo_mismo
+No sirven para lo mismo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+IncrementarCoherenciaSemantica
+ 4 
+Tactica remantica: IncrementarCoherenciaSemanticaSi las responsabilidades A y B de un módulo no sirven al mismo propósito entonces deberán estar en módulos diferentes
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+A_ReducirAcomplamiento
+ 0 
+¿Es necesario reducir el acoplamiento entre módulos para aumentar la modificabilidad y es necesario introducir una interfaz explícita a un módulo para reducir el acoplamiento?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_necesario
+Si es necesario
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Encapsulate
+ 4 
+Tactica recomendada : EncapsulateIntroduce una interface explicita a un módulo, la interface incluye la API, es la táctica mas común y reduce la probabilidad de que un cambio se propague a otro modulo.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+P_PriorizarEventos
+ 0 
+¿El sistema necesita priorizar eventos y controlar el tiempo límite para excepciones?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_debe_de_priorizar
+Si debe de priorizar
+
+
+
+
+
+
+False
+No_debe_de_priorizar
+No debe de priorizar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+P_Jerarquia
+ 0 
+¿Es necesario establecer una jerarquía de eventos para determinar su prioridad?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_necesario
+Si es necesario una jerarquia
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario una jerarquia
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+PriorizarEventos
+ 4 
+Tactica recomendada: PriorizarEventosEstablecer un esquema de priorizar los eventos y ejecutarlos en base a esa prioridad.
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+P_EstablecerTiempos
+ 0 
+¿Es necesario establecer un tiempo límite para el manejo de excepciones?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_necesario
+Si es necesario
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+BoundExceptionTime
+ 4 
+Tactica recomendada: Bound Expection Time
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_DetectarIntrusiones
+ 0 
+¿Deseas detectar posibles intrusiones en la red?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_deseo_detectar
+Si deseo detectar
+
+
+
+
+
+
+False
+No_deseo_detectar
+No deseo detectar
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_CompararTrafico
+ 0 
+¿Prefieres comparar el tráfico de la red para buscar patrones de ataques?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_deseo_hacerlo
+Si deseo hacerlo
+
+
+
+
+
+
+False
+No_deseo_hacerlo
+No deseo hacerlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Detect_Intrusion
+ 4 
+Tactica recomendada: Detect Intrusion
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_AtaquesNegacion
+ 0 
+¿Te interesa detectar ataques de denegación de servicio (DoS)?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_me_interesa
+Si me interesa
+
+
+
+
+
+
+False
+No_me_interesa
+No me interesa
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+DetectServiceDenial
+ 4 
+DetectServiceDenial
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_IdentificarFuente
+ 0 
+¿Quieres identificar la fuente de los intentos de ataque?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_quiero_identificarlo
+Si quiero identificarlo
+
+
+
+
+
+
+False
+No_quiero_identificarlo
+No quiero identificarlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_Actores
+ 0 
+¿Deseas asegurarte de que los actores son quienes dicen ser?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_me_quiero_asegurar
+Si me quiero asegurar
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Authenticate_Actors
+ 4 
+Tactica recomendada:  Authenticate Actors
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+S_Encriptacion
+ 0 
+¿Te gustaría aplicar encriptación a datos o comunicaciones?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_quiero_encriptar_datos
+Si quiero encriptar datos
+
+
+
+
+
+
+False
+No_quiero_encriptar_datos
+No quiero encriptar datos
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+T_Recrear
+ 0 
+¿Deseas recrear y observar el estado que causa un fallo?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_deseo_hacerlo
+Si deseo hacerlo
+
+
+
+
+
+
+False
+No_quiero_hacerlo
+No quiero hacerlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+T_EjecutarNuevamente
+ 0 
+¿Prefieres ejecutar nuevamente el estado que causó el fallo para observarlo mejor?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_prefiero_hacerlo
+Si prefiero hacerlo
+
+
+
+
+
+
+False
+No_prefiero_hacerlo
+No prefiero hacerlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+RecordPlayBack
+ 4 
+Tactica recomendada: RecordPlayBack
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+T_Modulo
+ 0 
+¿Necesitas empezar un sistema o módulo en un estado arbitrario para aplicar un test?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_necesito_hacerlo
+Si necesito hacerlo
+
+
+
+
+
+
+False
+No_necesito_hacerlo
+No necesito hacerlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+LocalizeStateStorage
+ 4 
+Tactica recomendada: LocalizeStateStorage
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+T_insertarCodigo
+ 0 
+¿Te interesa insertar código para validar ciertas variables y aumentar la observabilidad?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_me_interesa
+Si me interesa
+
+
+
+
+
+
+False
+No_me_interesa
+No me interesa
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ExecutableAssertions
+ 4 
+ExecutableAssertions
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+U_DetenerTemporalmente
+ 0 
+¿Tu sistema requiere la capacidad de detener temporalmente una tarea y luego reanudarla?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_requiere_esa_capacidad
+Si requiere esa capacidad
+
+
+
+
+
+
+False
+No_requiere_esa_capacidad
+No requiere esa capacidad
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+U_ModeloTareaActual
+ 0 
+¿Necesitas mantener un modelo de la tarea actual para determinar el contexto de las acciones del sistema?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_lo_necesito
+Si lo necesito
+
+
+
+
+
+
+False
+No_lo_necesito
+No lo necesito
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+MaitainTaskModel
+ 4 
+Tactica recomendada: MaitainTaskModel
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+U_ModeloExplicito
+ 0 
+¿Es crucial mantener un modelo explícito del conocimiento que el usuario tiene del sistema, para personalizar la retroalimentación o sugerencias?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_crucial_en_mi_sistema
+Si es crucial en mi sistema
+
+
+
+
+
+
+False
+No_es_crucial
+No es crucial
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+MaitainUserModel
+ 4 
+Tactica recomendada: MaitainUserModel
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+U_ModeloExplicito2
+ 0 
+¿El sistema necesita mantener un modelo explícito de sí mismo para predecir el tiempo necesario para realizar una tarea y proporcionar retroalimentación o sugerencias en consecuencia?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_necesita_mantenerlo
+Si necesita mantenerlo
+
+
+
+
+
+
+False
+No_necesita_mantenerlo
+No necesita mantenerlo
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Maintain_System_Model
+ 4 
+Maintain System Model
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Explorar_otro_requerimiento_y_tacticas
+ 4 
+Explorar otro requerimiento y tacticas
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+M_Interfaz_explicita
+ 0 
+¿Es necesario introducir una interfaz explícita a un módulo para reducir el acoplamiento?
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 2 
+Si_es_necesario
+Si es necesario
+
+
+
+
+
+
+False
+No_es_necesario
+No es necesario
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Encrypt_Data
+ 4 
+Tactica recomendada: Encrypt Data
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Sistema
+ 2 
+Sistema
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 1 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Availability
+ 4 
+Availability
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 20 
+ 20002 
+ 20004 
+ 20006 
+ 20008 
+ 20010 
+ 20012 
+ 20014 
+ 20016 
+ 20018 
+ 20020 
+ 20022 
+ 20024 
+ 20026 
+ 20028 
+ 20030 
+ 20032 
+ 20034 
+ 20036 
+ 20038 
+ 20040 
+Modificability
+ 4 
+Modificability
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 4 
+ 20042 
+ 20044 
+ 20046 
+ 20048 
+Performance
+ 4 
+Performance
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 6 
+ 20050 
+ 20052 
+ 20054 
+ 20056 
+ 20058 
+ 20060 
+Security
+ 4 
+Security
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 12 
+ 20062 
+ 20064 
+ 20066 
+ 20068 
+ 20070 
+ 20072 
+ 20074 
+ 20076 
+ 20078 
+ 20080 
+ 20082 
+ 20084 
+Testability
+ 4 
+Testability
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Usability
+ 4 
+Usability
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 3 
+Command Block 1
+ 1 
+ 3 
+C227:0
+ 3 
+ 2 
+-1 
+-1 
+
+TITLE
+C228:0
+ 3 
+ 3 
+-1 
+-1 
+
+DERIVE CONF
+C235:0
+ 3 
+-1 
+-1 
+-1 
+
+RESULTS
+
+ 0 
+Logic Block 1
+ 0 
+ 84 
+IS133:0
+ 83 
+ 3 
+-1 
+ 2 
+
+A_CambiosDinamicos = cambie_dinamicamente
+TE135:0
+ 2 
+-1 
+ 1 
+-1 
+
+[Availability] = 10
+IS134:1
+ 83 
+ 5 
+-1 
+ 4 
+
+A_CambiosDinamicos = No_es_necesario
+TE136:0
+ 4 
+-1 
+ 3 
+-1 
+
+[Availability] = 0
+IS139:0
+ 83 
+ 7 
+-1 
+ 6 
+
+A_ContinuidadServicio = El_sistema_si_debe
+TE141:0
+ 6 
+-1 
+ 5 
+-1 
+
+[Availability] = 10
+IS140:5
+ 83 
+ 9 
+-1 
+ 8 
+
+A_ContinuidadServicio = El_sistema_no_debe
+TE142:0
+ 8 
+-1 
+ 7 
+-1 
+
+[Availability] = 0
+IS143:0
+ 83 
+ 11 
+-1 
+ 10 
+
+A_EconomiaDeRecursos = si_es_prioridad
+TE145:0
+ 10 
+-1 
+ 9 
+-1 
+
+[Availability] = 10
+IS144:9
+ 83 
+ 13 
+-1 
+ 12 
+
+A_EconomiaDeRecursos = no_es_prioridad
+TE146:0
+ 12 
+-1 
+ 11 
+-1 
+
+[Availability] = 0
+IS147:0
+ 83 
+ 15 
+-1 
+ 14 
+
+A_MultiplesIntentos = Si_es_aceptable
+TE149:0
+ 14 
+-1 
+ 13 
+-1 
+
+[Availability] = 10
+IS148:13
+ 83 
+ 17 
+-1 
+ 16 
+
+A_MultiplesIntentos = No_es_aceptable
+TE150:0
+ 16 
+-1 
+ 15 
+-1 
+
+[Availability] = 0
+IS151:0
+ 83 
+ 19 
+-1 
+ 18 
+
+A_ObservacionGradual = es_preferible
+TE153:0
+ 18 
+-1 
+ 17 
+-1 
+
+[Availability] = 10
+IS152:17
+ 83 
+ 21 
+-1 
+ 20 
+
+A_ObservacionGradual = No_es_preferible
+TE154:0
+ 20 
+-1 
+ 19 
+-1 
+
+[Availability] = 0
+IS155:0
+ 83 
+ 23 
+-1 
+ 22 
+
+A_RecuperacionAutomatica = recuperacion_automatica
+TE157:0
+ 22 
+-1 
+ 21 
+-1 
+
+[Availability] = 10
+IS156:21
+ 83 
+ 25 
+-1 
+ 24 
+
+A_RecuperacionAutomatica = intervencion_manual
+TE158:0
+ 24 
+-1 
+ 23 
+-1 
+
+[Availability] = 10
+IS159:0
+ 83 
+ 27 
+-1 
+ 26 
+
+A_RedistribucionDinamica = si_es_escencial
+TE161:0
+ 26 
+-1 
+ 25 
+-1 
+
+[Availability] = 10
+IS160:25
+ 83 
+ 29 
+-1 
+ 28 
+
+A_RedistribucionDinamica = no_es_escencial
+TE162:0
+ 28 
+-1 
+ 27 
+-1 
+
+[Availability] = 0
+IS163:0
+ 83 
+ 31 
+-1 
+ 30 
+
+A_ReducirAcomplamiento = Si_es_necesario
+TE165:0
+ 30 
+-1 
+ 29 
+-1 
+
+[Availability] = 10
+IS164:29
+ 83 
+ 33 
+-1 
+ 32 
+
+A_ReducirAcomplamiento = No_es_necesario
+TE166:0
+ 32 
+-1 
+ 31 
+-1 
+
+[Availability] =0 
+IS167:0
+ 83 
+ 35 
+-1 
+ 34 
+
+A_RedundanciaAutomatica = Si_es_preferible
+TE169:0
+ 34 
+-1 
+ 33 
+-1 
+
+[Availability] = 10
+IS168:33
+ 83 
+ 37 
+-1 
+ 36 
+
+A_RedundanciaAutomatica = No_es_preferible
+TE170:0
+ 36 
+-1 
+ 35 
+-1 
+
+[Availability] = 0
+IS171:0
+ 83 
+ 39 
+-1 
+ 38 
+
+A_ToleranciaFallas = Si_es_importante
+TE173:0
+ 38 
+-1 
+ 37 
+-1 
+
+[Availability] = 10
+IS172:37
+ 83 
+ 41 
+-1 
+ 40 
+
+A_ToleranciaFallas = No_es_importante
+TE174:0
+ 40 
+-1 
+ 39 
+-1 
+
+[Availability] = 0
+IS177:0
+ 83 
+ 43 
+-1 
+ 42 
+
+M_Interfaz_explicita = Si_es_necesario
+TE179:0
+ 42 
+-1 
+ 41 
+-1 
+
+[Modificability] = 10
+IS178:41
+ 83 
+ 45 
+-1 
+ 44 
+
+M_Interfaz_explicita = No_es_necesario
+TE180:0
+ 44 
+-1 
+ 43 
+-1 
+
+[Modificability] = 0
+IS181:0
+ 83 
+ 47 
+-1 
+ 46 
+
+M_Responsabilidades = sirven_para_lo_mismo
+TE183:0
+ 46 
+-1 
+ 45 
+-1 
+
+[Modificability] = 10
+IS182:45
+ 83 
+ 49 
+-1 
+ 48 
+
+M_Responsabilidades = No_sirven_para_lo_mismo
+TE184:0
+ 48 
+-1 
+ 47 
+-1 
+
+[Modificability] = 0
+IS185:0
+ 83 
+ 51 
+-1 
+ 50 
+
+P_EstablecerTiempos = Si_es_necesario
+TE187:0
+ 50 
+-1 
+ 49 
+-1 
+
+[Performance] = 10
+IS186:49
+ 83 
+ 53 
+-1 
+ 52 
+
+P_EstablecerTiempos = No_es_necesario
+TE188:0
+ 52 
+-1 
+ 51 
+-1 
+
+[Performance] = 0
+IS189:0
+ 83 
+ 55 
+-1 
+ 54 
+
+P_Jerarquia = Si_es_necesario
+TE191:0
+ 54 
+-1 
+ 53 
+-1 
+
+[Performance] = 10
+IS190:53
+ 83 
+ 57 
+-1 
+ 56 
+
+P_Jerarquia = No_es_necesario
+TE192:0
+ 56 
+-1 
+ 55 
+-1 
+
+[Performance] = 0
+IS193:0
+ 83 
+ 59 
+-1 
+ 58 
+
+P_PriorizarEventos = Si_debe_de_priorizar
+TE195:0
+ 58 
+-1 
+ 57 
+-1 
+
+[Performance] = 10
+IS194:57
+ 83 
+ 61 
+-1 
+ 60 
+
+P_PriorizarEventos = No_debe_de_priorizar
+TE196:0
+ 60 
+-1 
+ 59 
+-1 
+
+[Performance] = 0
+IS197:0
+ 83 
+ 63 
+-1 
+ 62 
+
+S_Actores = Si_me_quiero_asegurar
+TE199:0
+ 62 
+-1 
+ 61 
+-1 
+
+[Security] = 10
+IS198:61
+ 83 
+ 65 
+-1 
+ 64 
+
+S_Actores = No_es_necesario
+TE200:0
+ 64 
+-1 
+ 63 
+-1 
+
+[Security] = 0
+IS201:0
+ 83 
+ 67 
+-1 
+ 66 
+
+S_AtaquesNegacion = Si_me_interesa
+TE211:0
+ 66 
+-1 
+ 65 
+-1 
+
+[Security] = 10
+IS202:65
+ 83 
+ 69 
+-1 
+ 68 
+
+S_AtaquesNegacion = No_me_interesa
+TE212:0
+ 68 
+-1 
+ 67 
+-1 
+
+[Security] = 0
+IS203:0
+ 83 
+ 71 
+-1 
+ 70 
+
+S_CompararTrafico = Si_deseo_hacerlo
+TE213:0
+ 70 
+-1 
+ 69 
+-1 
+
+[Security] = 10
+IS204:67
+ 83 
+ 73 
+-1 
+ 72 
+
+S_CompararTrafico = No_deseo_hacerlo
+TE214:0
+ 72 
+-1 
+ 71 
+-1 
+
+[Security] = 0
+IS205:0
+ 83 
+ 75 
+-1 
+ 74 
+
+S_DetectarIntrusiones = Si_deseo_detectar
+TE215:0
+ 74 
+-1 
+ 73 
+-1 
+
+[Security] = 10
+IS206:69
+ 83 
+ 77 
+-1 
+ 76 
+
+S_DetectarIntrusiones = No_deseo_detectar
+TE218:81
+ 76 
+-1 
+ 75 
+-1 
+
+[Security] =  0
+IS207:0
+ 83 
+ 79 
+-1 
+ 78 
+
+S_Encriptacion = Si_quiero_encriptar_datos
+TE217:0
+ 78 
+-1 
+ 77 
+-1 
+
+[Security] = 10
+IS208:71
+ 83 
+ 81 
+-1 
+ 80 
+
+S_Encriptacion = No_quiero_encriptar_datos
+TE219:0
+ 80 
+-1 
+ 79 
+-1 
+
+[Security] = 0
+IS209:0
+ 83 
+ 83 
+-1 
+ 82 
+
+S_IdentificarFuente = Si_quiero_identificarlo
+TE220:0
+ 82 
+-1 
+ 81 
+-1 
+
+[Security] = 10
+IS210:73
+ 83 
+-1 
+-1 
+ 84 
+
+S_IdentificarFuente = No_quiero_identificarlo
+TE221:0
+ 84 
+-1 
+ 83 
+-1 
+
+[Security] = 0
+
+ 0 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 1 
+ 31 
+C11:0
+ 31 
+ 2 
+-1 
+-1 
+
+ASK [A_ContinuidadServicio]
+C12:0
+ 31 
+ 3 
+-1 
+-1 
+
+ASK [A_RedundanciaAutomatica]
+C13:0
+ 31 
+ 4 
+-1 
+-1 
+
+ASK [A_MultiplesIntentos]
+C17:0
+ 31 
+ 5 
+-1 
+-1 
+
+ASK [A_EconomiaDeRecursos]
+C19:0
+ 31 
+ 6 
+-1 
+-1 
+
+ASK [A_RedistribucionDinamica]
+C21:0
+ 31 
+ 7 
+-1 
+-1 
+
+ASK [A_ObservacionGradual]
+C23:0
+ 31 
+ 8 
+-1 
+-1 
+
+ASK [A_CambiosDinamicos]
+C25:0
+ 31 
+ 9 
+-1 
+-1 
+
+ASK [A_ToleranciaFallas]
+C27:0
+ 31 
+ 10 
+-1 
+-1 
+
+ASK [A_RecuperacionAutomatica]
+C30:0
+ 31 
+ 11 
+-1 
+-1 
+
+ASK [M_Responsabilidades]
+C32:0
+ 31 
+ 12 
+-1 
+-1 
+
+ASK [A_ReducirAcomplamiento]
+C34:0
+ 31 
+ 13 
+-1 
+-1 
+
+ASK [P_PriorizarEventos]
+C35:0
+ 31 
+ 14 
+-1 
+-1 
+
+ASK [P_Jerarquia]
+C37:0
+ 31 
+ 15 
+-1 
+-1 
+
+ASK [P_EstablecerTiempos]
+C39:0
+ 31 
+ 16 
+-1 
+-1 
+
+ASK [S_DetectarIntrusiones]
+C40:0
+ 31 
+ 17 
+-1 
+-1 
+
+ASK [S_CompararTrafico]
+C42:0
+ 31 
+ 18 
+-1 
+-1 
+
+ASK [S_AtaquesNegacion]
+C44:0
+ 31 
+ 19 
+-1 
+-1 
+
+ASK [S_IdentificarFuente]
+C45:0
+ 31 
+ 20 
+-1 
+-1 
+
+ASK [S_Actores]
+C47:0
+ 31 
+ 21 
+-1 
+-1 
+
+ASK [S_Encriptacion]
+C48:0
+ 31 
+ 22 
+-1 
+-1 
+
+ASK [T_Recrear]
+C49:0
+ 31 
+ 23 
+-1 
+-1 
+
+ASK [T_EjecutarNuevamente]
+C51:0
+ 31 
+ 24 
+-1 
+-1 
+
+ASK [T_Modulo]
+C53:0
+ 31 
+ 25 
+-1 
+-1 
+
+ASK [T_insertarCodigo]
+C55:0
+ 31 
+ 26 
+-1 
+-1 
+
+ASK [U_DetenerTemporalmente]
+C56:0
+ 31 
+ 27 
+-1 
+-1 
+
+ASK [U_ModeloTareaActual]
+C58:0
+ 31 
+ 28 
+-1 
+-1 
+
+ASK [U_ModeloExplicito]
+C60:0
+ 31 
+ 29 
+-1 
+-1 
+
+ASK [U_ModeloExplicito2]
+C63:0
+ 31 
+ 30 
+-1 
+-1 
+
+ASK [M_Interfaz_explicita]
+C65:0
+ 31 
+ 31 
+-1 
+-1 
+
+ASK [Sistema]
+C72:0
+ 31 
+-1 
+-1 
+-1 
+
+EXIT
+
+ 0 
+ 1 
+TEXT "Sistema de Recomendacion de Tacticas"  FORMAT:  FONT=Monospaced SIZE=22 STYLE=Bold FCOLOR=0,64,64 POSITION=Center 
+ 31 
+TEXT "Atributos en los cuales enfocarte para el desarrollo de tu sistema"  FORMAT:  FONT=Monospaced SIZE=22 FCOLOR=255,0,128 POSITION=Center 
+CONFIDENCE   FORMAT: FONT=Monospaced SIZE=16 STYLE=Italic FCOLOR=0,64,0            VALUE=SHORT 
+TEXT "Tacticas recomendadas para availability"  FORMAT:  FONT=Serif SIZE=15 FCOLOR=0,255,0 
+[Sanity_Checking]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Retry]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Deteccion_De_Excepciones]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[RemovalFromService]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[PredictiveModel]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[SoftwareUpgrade]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[SelfTest]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Rollback]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[ExceptionHandling]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+TEXT "Tacticas recomendas para modificabilitry"  FORMAT: FONT=Serif SIZE=15 FCOLOR=255,128,0 
+[IncrementarCoherenciaSemantica]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Encapsulate]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+TEXT "Tacticas recomendadas para performance"  FORMAT:  FONT=Serif SIZE=15 FCOLOR=128,255,255 
+[PriorizarEventos]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[BoundExceptionTime]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+TEXT "Tacticas recomendadas para security"  FORMAT:  FONT=Serif SIZE=15 FCOLOR=255,0,0 
+[Detect_Intrusion]   FORMAT:  FONT=SansSerif SIZE=12 FCOLOR=0,0,0  PROMPT_ONLY 
+[DetectServiceDenial]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Authenticate_Actors]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Encrypt_Data]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+TEXT "Tacticas recomendadas para Testability"  FORMAT:  FONT=Serif SIZE=15 FCOLOR=64,0,64 
+[RecordPlayBack]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[LocalizeStateStorage]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[ExecutableAssertions]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+TEXT "Tacticas recomendadas para usability"  FORMAT:  FONT=Serif SIZE=15 FCOLOR=0,64,0 
+[MaitainTaskModel]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[MaitainUserModel]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+[Maintain_System_Model]   FORMAT:  FONT=SansSerif FCOLOR=0,0,0  PROMPT_ONLY 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 0 
+ 0 
+
+

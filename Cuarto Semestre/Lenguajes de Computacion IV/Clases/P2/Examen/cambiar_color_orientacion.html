@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery</title>
+    <script src="jquery-3.6.4.min.js"></script>
+
+    <style type="text/css">
+
+        #rectangle{
+            width: 300px;
+            height: 150px;
+            background-color: aquamarine;
+            margin: 10px;
+        }
+
+        #ovalo{
+            width: 200px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: blue;
+        }
+        
+
+    </style>
+</head>
+<body>
+
+
+    <div id="ovalo"></div>
+
+    <div>
+        <p>Nombre: </p>
+        <input type="text" placeholder="nombre" id="Name">
+        <p>Edad:</p>
+        <input type="text" placeholder="Edad" id="edad">
+        <p>CURP</p>
+        <input type="text" placeholder="CURP" id="curp">
+    </div>
+
+    <script type="text/javascript">
+        function validarname(Name){
+            var regex= /^([a-zA-z]) + ([a-zA-z]) + ([a-zA-z])/;
+            return regex.test(Name);
+        }
+
+        function validaedad(edad){
+            var regex= /^([0-9])/;
+            return regex.test(edad);
+        }
+
+        function validarCurp(curp){
+            var regex= /^([a-zA-z0-9])/;
+            return regex.test(curp);
+        }
+
+    </script>
+    
+</body>
+</html>

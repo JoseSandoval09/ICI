@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\bin\Debug\Rombo_Usando_Asteriscos.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\bin\Debug\Rombo_Usando_Asteriscos.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\bin\Debug\Rombo_Usando_Asteriscos.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EXAMEN_P1_SPJL\Rombo_Usando_Asteriscos\obj\Debug\Rombo_Usando_Asteriscos.pdb

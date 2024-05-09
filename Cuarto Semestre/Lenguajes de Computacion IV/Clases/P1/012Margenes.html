@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posicionamiento Fijo</title>
+
+    <style type="text/css">
+
+        .rojo{ 
+            color: cornflowerblue;
+
+        }
+        .grande{
+            font-size: 200%;
+            font-style: bold;
+
+        }
+
+        #pequeno{
+            font-size: 50%;
+        }
+
+        .sub{
+            text-decoration:underline;
+        }
+        
+
+        .primeraSeccion{
+            background-color: blanchedalmond;
+            width: 50%;
+            margin: 100px 50px 300px 20px;
+          
+            
+        }
+
+        
+
+        .segundaSeccion{
+            background-color: chartreuse;
+            width: 300px;
+            
+            
+           
+            
+           
+            
+        }
+
+        #unico{
+            clear: both;
+        }
+
+        
+
+
+
+    </style> <!--Definir espacio para estilos-->
+    <!-- .rojo Se define clase color-->
+    <!--Ids sintaxis = # debe ser unico, no se deben de poner 2 iguales-->
+    <!--Clear administra los espacios.-->
+    <!--Posicionamiento relativo permite definir donde se pondra elemento a partir de un punto inicial-->
+    <!--Los puntos relativos son diferentes dependiento de la posicion del elemento-->
+    <!--El posicionamiento relativo permite que el elemento se ponga en un lugar de la pagina pero no respeta su espacio original,"" no es como un elemento de la pagina"-->
+    <!--El posicionamiento fixed permite "fijar" un elemento y  hacer scroll dentro de ese elemento fijo, desplazando la pagina.-->
+    <!--Margen nos permite delimitar un margen en pixeles dentro de un elemento (en forma manecillas de reloj, se puede ser especifico utilizando top, bottom, right, left)-->
+
+</head>
+<body>
+    
+
+    <!--Div crea pequeñas cajas dentro de lo que este adentro de la etiqueta, puede utilizar clases para darle estilo-->
+    <div class="primeraSeccion">
+
+        <h1 class="rojo grande">HOLA HARRY ESTILOS</h1> <!--Se manda llamar a clase rojo-->
+        <p>Este es un parrafo <span class="grande"> con estilo <span></p> <!--Para aplicar dos clases solo se deja un espacio entre ellas-->
+        <!--etiqueta span puede ser utilizada dentro de una etiqueta para poner un comportamiento diferente  a lo que este dentro del span-->
+
+    </div>
+
+    <p id="unico">Este es un parrafo adicional</p>
+
+    <div class="segundaSeccion ">
+    
+        <p>Este es otro parrafo con estilo</p>
+
+        <p>
+            Este parrafo es estileado con un id
+        </p> <!--Id-->
+    </div>    
+
+
+</body>
+</html>

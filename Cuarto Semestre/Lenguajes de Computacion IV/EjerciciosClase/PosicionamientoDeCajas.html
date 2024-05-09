@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posicionamiento de Cajas</title>
+
+    <style type="text/css">
+
+
+            /*Draw del lazdo izq*/
+        .Hdiv{
+
+            width:1366px;
+            height: 100px;
+            text-align: center;
+            background-color:  rgb(21, 21, 242);
+            font-family: 'Courier New', Courier, monospace;
+            font-style:oblique;
+            border-radius: 20px;
+            position: fixed;
+            text-align-last:center;
+            margin: 10px 10px;
+            
+
+        }
+
+        .TMMdiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: 200px;
+            left: 20px;
+            text-align: center;
+            border-radius: 30px;
+            border-color: blueviolet;
+            border-style:ridge;
+            
+            
+
+
+        }
+
+        .TTPDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: 250px;
+            left: 20px;
+            text-align: center;
+            border-radius: 30px;
+            border-color: chartreuse;
+            border-style: ridge;
+
+        }
+
+        .TS1MDiv{
+
+            width: 250px;
+            height: 60px;
+            background-color: aliceblue;
+            position: relative;
+            top: 130px;
+            left: 350px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(3, 113, 113);
+            border-style: ridge;
+        }
+
+        .TADMDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: 300px;
+            left: 20px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:darkgoldenrod;
+            border-style: ridge;
+        }
+
+        .TTDDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: 350px;
+            left: 20px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:orangered;
+            border-style: ridge;
+        }
+
+        .TS2Div{
+
+            width: 250px;
+            height: 60px;
+            background-color: aliceblue;
+            position: relative;
+            top: 230px;
+            left: 350px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(3, 113, 113);
+            border-style: ridge;
+        }
+
+        .TF1Div{
+            width: 120px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -350px;
+            left: 530px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:orangered;
+            border-style: ridge;
+        }
+
+
+
+        /*DRAW del lado derecho*/
+        .TTFDiv{
+
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -180px;
+            left: 1100px;
+            text-align: center;
+            border-radius: 30px;
+            border-color: rgb(141, 255, 96);
+            border-style:ridge;
+            
+            
+
+
+        }
+
+        .TFTDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -130px;
+            left:1100px;
+            text-align: center;
+            border-radius: 30px;
+            border-color: rgb(254, 24, 204);
+            border-style: ridge;
+
+        }
+
+        .TSD1Div{
+
+            width: 250px;
+            height: 60px;
+            background-color: aliceblue;
+            position: relative;
+            top: -237px;
+            left: 775px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(3, 113, 113);
+            border-style: ridge;
+        }
+
+        .TMBDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -75px;
+            left:1100px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(232, 48, 60);
+            border-style: ridge;
+        }
+
+        .THRDDiv{
+            width: 250px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -25px;
+            left: 1100px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(192, 236, 18);
+            border-style: ridge;
+        }
+
+        .TSD2Div{
+
+            width: 250px;
+            height: 60px;
+            background-color: aliceblue;
+            position: relative;
+            top:-137px;
+            left:775px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(3, 113, 113);
+            border-style: ridge;
+        }
+
+        .TF2Div{
+            width: 120px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -410px;
+            left: 700px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:orangered;
+            border-style: ridge;
+        }
+
+        /*STYLE DIV WINNER*/
+
+        .TW{
+            width: 120px;
+            height: 55px;
+            background-color: aliceblue;
+            position: relative;
+            top: -700px;
+            left: 620px;
+            text-align: center;
+            border-radius: 30px;
+            border-color:rgb(3, 12, 255);
+            border-style: ridge;
+        }
+
+        /* Style lorem*/
+
+        .SL{
+            width: 1366px;
+            height: 120px;
+            background-color: teal;
+            position: fixed bottom;
+            text-align:center;
+            border-style: dashed;
+            border-color: blueviolet;
+            border-radius: 10px;
+
+        }
+        
+
+        body{
+            background-color: lightgray;
+            width: 90%;
+            margin: 0% auto;
+        }
+
+        
+
+    </style>
+
+
+
+
+</head>
+<body>
+
+    <!--DRAW LADO IZQUIERDO Y SEMIFINALISTAS IZQ-->
+
+    <div class="Hdiv">
+        <h1 style="color: rgb(255, 255, 255);">
+            Main Draw Cuartos de Final
+            <br>
+            Acapulco Open
+        </h1>
+
+    </div>
+
+    <div class="TMMdiv">
+
+        <h3 style="color: rgb(0, 0, 0);">
+            MACKENZIE MCDONALD
+        </h3>
+
+    </div>
+
+    <div class="TTPDiv">
+        <h3 style="color: black;">
+            TOMMY PAUL
+        </h3>
+
+    </div>
+
+    <div class="TS1MDiv">
+        <h3>
+            TOMMY PAUL
+        </h3>
+
+    </div>
+
+    <div class="TADMDiv">
+        <h3 style="color: black;">
+            ALEX DE MINAUR
+        </h3>
+    </div>
+
+    <div class="TTDDiv">
+        <h3 style="color: black;">
+            TARO DANIEL
+        </h3>
+    </div>
+
+    <div class="TS2Div">
+        <h3 style="color: black;">
+            ALEX DE MINAUR
+        </h3>
+
+    </div>
+
+    <!---DRAW DEL LADO DERECHO-->
+
+    <div class="TTFDiv">
+
+        <h3 style="color: rgb(0, 0, 0);">
+            TAYLOR FRITZ
+        </h3>
+
+    </div>
+
+    <div class="TFTDiv">
+        <h3 style="color: black;">
+            FRANCES TIAFOE
+        </h3>
+
+    </div>
+
+    <div class="TSD1Div">
+        <h6>
+            TBD
+        </h6>
+
+    </div>
+
+    <div class="TMBDiv">
+        <h3 style="color: black;">
+            MATTEO BERRETINI
+        </h3>
+    </div>
+
+    <div class="THRDDiv">
+        <h3 style="color: black;">
+            HOLGER RUNE
+        </h3>
+    </div>
+
+    <div class="TSD2Div">
+        <h6 style="color: black;">
+            TBD
+        </h6>
+
+    </div>
+
+    <!--CUADRO FINALISTAS-->
+
+    <div class="TF1Div">
+        <h6 style="color: black;">
+            TBD
+        </h6>
+    </div>
+
+    <div class="TF2Div">
+        <h6 style="color: black;">
+            TBD
+        </h6>
+
+    </div>
+
+    <!--Cuadro Finalista-->
+    <div class="TW">
+        <h6 style="color: black;">
+            WINNER
+        </h6>
+
+    </div>
+
+    <div class="SL">
+        <p style="color: azure; text-align: center;">
+            TERMINOS Y CONDICIONES<br>
+        </p>
+        <p style="color: azure; text-align: left;">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint eos odio temporibus suscipit magnam a consequuntur velit, veritatis, eius voluptate facere porro facilis sapiente laboriosam ullam, molestias culpa natus deserunt?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci rerum laborum iusto asperiores velit, expedita esse illo blanditiis optio, aliquam unde cupiditate reprehenderit corrupti libero similique, labore magnam voluptates voluptas?
+            lorem
+
+        </p>
+    </div>
+
+
+
+    
+</body>
+</html>

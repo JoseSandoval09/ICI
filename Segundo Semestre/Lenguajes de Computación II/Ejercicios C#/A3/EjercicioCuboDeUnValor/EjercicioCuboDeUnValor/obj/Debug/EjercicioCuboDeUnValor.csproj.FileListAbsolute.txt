@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\bin\Debug\EjercicioCuboDeUnValor.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\bin\Debug\EjercicioCuboDeUnValor.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\bin\Debug\EjercicioCuboDeUnValor.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioCuboDeUnValor\EjercicioCuboDeUnValor\obj\Debug\EjercicioCuboDeUnValor.pdb

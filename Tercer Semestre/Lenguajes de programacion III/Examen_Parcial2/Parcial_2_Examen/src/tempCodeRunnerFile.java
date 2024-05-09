@@ -1,0 +1,1 @@
+text.setFont(getFont().deriveFont(Font.BOLD));

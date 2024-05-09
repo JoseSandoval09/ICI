@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\bin\Debug\REGISTRO_CLIMAS_SPJL.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\bin\Debug\REGISTRO_CLIMAS_SPJL.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\bin\Debug\REGISTRO_CLIMAS_SPJL.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_CLIMAS_SPJL\obj\Debug\REGISTRO_CLIMAS_SPJL.pdb

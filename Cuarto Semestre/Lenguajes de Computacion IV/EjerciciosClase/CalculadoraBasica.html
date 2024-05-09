@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="eS">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALCULADORA BASICA</title>
+    <link rel="stylesheet" href="CalculadoraBasica.css">
+</head>
+<body>
+
+    <div id="mbar">
+        <h2 style="color: aliceblue; position: relative; top: 25px;">Calculadora Basica</h2>
+    </div>
+    <div id="calc">
+        <div>
+            <p>Ingresa numero 1</p>
+            <input type="text" name="num1" id="n1" placeholder="Numero 1">
+        </div>
+        <div>
+            <p>Ingresa numero 2</p>
+            <input type="text" name="num2" id="n2" placeholder="Numero 2">
+        </div>
+        <div>
+            <button type="button" id="sum" style="background-color: white; border-color: black; width: 30px; height: 30px; ">+</button>
+            <button type="button" id="res" style="background-color: white; border-color: black; width: 30px; height: 30px; ">-</button>
+            <button type="button" id="divi" style="background-color: white; border-color: black; width: 30px; height: 30px; ">/</button>
+            <button type="button" id="multi" style="background-color: white; border-color: black; width: 30px; height: 30px; ">*</button>
+        </div>
+        <div>
+            <button type="button" id="igual" style="background-color: white; border-color: black; width: 30px; height: 30px; ">=</button>
+        </div>
+        <div>
+            <p id="tRes">Resultado de la operación: </p>
+        </div>
+
+       
+
+    </div>
+
+    <p>Instrucciones: Ingrese numeros dentro del cuadro correspondiente, despúes presione operacion a realizar con ambos numeros y precione botón de igual.</p>
+   
+
+    <script type="text/javascript">
+
+        var res=0;
+
+        document.getElementById("sum").onclick=function(){
+           
+            var num1;
+            var num2;
+            num1=document.getElementById("n1").value;
+            num2=document.getElementById("n2").value;
+            res= parseInt(num1) + parseInt(num2);
+        }
+
+        document.getElementById("res").onclick=function(){
+            
+            var num1=0;
+            var num2=0;
+            num1=document.getElementById("n1").value;
+            num2=document.getElementById("n2").value;
+            res=parseInt(num1)-parseInt(num2);
+        }
+
+        document.getElementById("divi").onclick=function(){
+           
+            var num1=0;
+            var num2=0;
+            num1=document.getElementById("n1").value;
+            num2=document.getElementById("n2").value;
+            res=parseInt(num1)/parseInt(num2);
+        }
+
+        document.getElementById("multi").onclick=function(){
+            
+            var num1=0;
+            var num2=0;
+            num1=document.getElementById("n1").value;
+            num2=document.getElementById("n2").value;
+            res=parseInt(num1)*parseInt(num2);
+        }
+
+        
+
+
+
+
+        document.getElementById("igual").onclick=function(){
+        
+           /*
+            if(document.getElementById("sum").clicked==true){
+                res=num1+num2;
+            }
+            */
+
+            document.getElementById("tRes").innerHTML="Resultado: " +res;;
+
+        }
+
+       
+
+
+        
+
+
+
+    </script>
+    
+</body>
+</html>

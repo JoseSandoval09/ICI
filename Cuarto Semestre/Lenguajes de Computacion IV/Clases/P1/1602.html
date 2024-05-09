@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script</title>
+</head>
+<body>
+    <p id="texto">Ejemplo java script</p>
+    <button id="mi boton"> cambiar texto</button>
+
+    <p id="AgregarTexto">JavaScript es...</p>
+    <button id="Agregar"> Agregar texto</button>
+
+    <p id="MostrarTexto"></p>
+    <button id="Mostrar">Mostrar texto</button>
+
+    <p id="TextoEstilo">Estilo</p>
+    <button id="CambiarEstilo">Cambiar Estilo</button>
+
+    <script type="text/Javascript">
+        document.getElementById("mi boton").onclick=function() {
+            document.getElementById("texto").innerHTML="Hola mundo";
+
+        }
+
+        document.getElementById("Agregar").onclick=function() {
+            document.getElementById("AgregarTexto").innerHTML+= "Genial";
+        }
+
+
+        document.getElementById("Mostrar").onclick=function() {
+            document.getElementById("MostrarTexto").innerHTML= "<h1>Este es un nuevo texto</h1>";
+        }
+
+        document.getElementById("CambiarEstilo").onclick=function() {
+            document.getElementById("TextoEstilo").style.color="blue";
+            document.getElementById("TextoEstilo").style.fontSize="100px";
+            document.getElementById("TextoEstilo").style.fontStyle="bold";
+        }
+
+
+       
+    </script>
+
+    
+
+
+
+    
+    <!--se puede poner en el body o en el head-->
+    <!--Terminar lineas con ; en JS-->
+    <!--Inner utiliza codigo HTML para hacer modificaciones-->
+    <!--Dentro de la funcion pongo lo que quiero que haga en este caso seria el boton-->
+    
+</body>
+</html>

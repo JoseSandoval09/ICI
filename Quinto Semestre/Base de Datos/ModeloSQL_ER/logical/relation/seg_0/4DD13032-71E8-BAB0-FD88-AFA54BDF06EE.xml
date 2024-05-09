@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="ArtistasxCancion" directorySegmentName="seg_0" id="4DD13032-71E8-BAB0-FD88-AFA54BDF06EE">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:18:40 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>EB53310B-8452-4006-AF56-E6EEEBE58148</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>28342662-0F2B-C6E1-248A-CA1F40CAD471</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

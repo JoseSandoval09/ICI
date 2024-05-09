@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\bin\Debug\A6EjercicioMCD.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\bin\Debug\A6EjercicioMCD.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\bin\Debug\A6EjercicioMCD.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6EjercicioMCD\A6EjercicioMCD\obj\Debug\A6EjercicioMCD.pdb

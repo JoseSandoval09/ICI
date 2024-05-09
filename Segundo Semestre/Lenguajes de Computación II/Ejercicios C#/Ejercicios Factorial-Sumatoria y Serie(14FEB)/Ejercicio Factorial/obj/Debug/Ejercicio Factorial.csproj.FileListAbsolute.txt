@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\bin\Debug\Ejercicio Factorial.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\bin\Debug\Ejercicio Factorial.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\bin\Debug\Ejercicio Factorial.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio Factorial.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio_Factorial.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio_Factorial.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio Factorial.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio Factorial.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio Factorial.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio Factorial\Ejercicio Factorial\obj\Debug\Ejercicio Factorial.pdb

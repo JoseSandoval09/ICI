@@ -1,0 +1,22 @@
+
+.gradient-custom{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,115,129,1) 21%, rgba(46,121,123,1) 46%, rgba(171,255,0,1) 81%);
+}
+.card:hover{
+    transform: scale(1.20);
+}
+.card{   
+    transition:all 0.4s;
+    width: 20rem;
+}
+.nav-link{
+    color: white !important;
+    transition: all 0.4s;
+}
+.nav-link:hover{
+    transform: scale(1.20);
+}
+
+
+

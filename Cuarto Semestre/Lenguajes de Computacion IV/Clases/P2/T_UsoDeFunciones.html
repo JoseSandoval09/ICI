@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de Funciones</title>
+
+    <style type="text/css">
+
+        .circulo{
+            height: 600px;
+            width: 600px;
+            border-radius: 50%;
+            background-color: darkolivegreen;
+            position: absolute;
+    
+        }
+        .mediano{
+            height: 400px;
+            width: 400px;
+            border-radius: 50%;
+            background-color: rgb(18, 142, 142);
+            position: fixed;
+            left: 100px;
+            top: 100px;
+    
+        }
+        .pequeno{
+            height: 200px;
+            width: 200px;
+            border-radius: 50%;
+            background-color: chartreuse;
+            position: absolute;
+            left: 200px;
+            top: 200px;
+        
+        }
+        #boton{
+            height: 100px;
+            width: 250px;
+            background-color: black;
+            border-radius: 10%;
+            position: relative;
+            float: right;
+            right: 400px;
+            top: 220px;
+        }
+
+
+
+    </style>
+
+
+</head>
+<body>
+    <div class="circulo" id="circuloverde"></div>
+    <div class="mediano" id="circuloceleste"></div>
+    <div class="pequeno" id="circuloverde2">
+        <p id="parrafo"></p>
+    </div>
+    <div id="boton"><h3 style="color: white;">Haz click sobre cada uno de los circulos y descubre que es lo que pasa</h3></div>
+
+    
+    <script type="text/Javascript">
+
+        //cambia forma circulo verde obscuro 
+        document.getElementById("circuloverde").onclick=function(){
+            document.getElementById("circuloverde").style.backgroundColor="#69A2B0";
+            document.getElementById("circuloverde").style.borderRadius="0%";
+        }
+        //mover circulo azul celeste
+        document.getElementById("circuloceleste").onclick=function(){
+
+            document.getElementById("circuloceleste").style.backgroundColor="#E05263";
+            document.getElementById("circuloceleste").style.left="300px";
+            document.getElementById("circuloceleste").style.borderStyle="dashed";
+            document.getElementById("circuloceleste").style.borderColor="white";
+        }
+
+        //cambiar forma ciculo verde
+        document.getElementById("circuloverde2").onclick=function(){
+
+            document.getElementById("circuloverde2").style.backgroundColor="#FFCAB1";
+            document.getElementById("circuloverde2").style.left="600px";
+            document.getElementById("circuloverde2").style.width="200px";
+            document.getElementById("circuloverde2").style.height="50px";
+            document.getElementById("circuloverde2").style.borderRadius="0%";
+            document.getElementById("circuloverde2").style.top="250px";
+            document.getElementById("parrafo").innerHTML="Felicidades funciono ----->";
+
+        }
+
+
+    </script>
+
+
+
+</body>
+</html>

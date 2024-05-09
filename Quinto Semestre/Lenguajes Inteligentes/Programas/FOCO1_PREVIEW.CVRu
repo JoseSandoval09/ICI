@@ -1,0 +1,524 @@
+Corvid Ver. 3.0.0
+6214145435231367172675713615180701771455470057153703144749227367065267714751375910602375110221714043841450325555033119065727123042625801155364830011758601025220080026705113763561581065174044523794021347152214717534755615143881041653108776251527180400930348470100047656551089275360304714628154670451311110314313063110
+
+
+
+
+False
+
+
+/CORVID/corvidsr
+
+
+
+False
+
+False
+255,255,255
+BCOLOR=255,255,255 FCOLOR=0,0,0 FONT=SANSERIF SIZE=12 STYLE=PLAIN POSITION=LEFT INDENT=5 CTRLW=25 CTRLR=5
+
+   OK   
+Back
+Restart
+True
+False
+ 3 
+FOCO
+ 0 
+El foco
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 0 
+ 50 
+ 2 
+se_apago
+se apago de pronto
+
+
+
+
+
+
+False
+continua_funcionando
+continua funcionando
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 4 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+Cambiar_Foco
+ 4 
+Cambiar  el foco
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10004 
+No_Requiere_Accion
+ 4 
+No Requiere  Realizar Ninguna Accion
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 0 
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 0 
+ 5 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 10002 
+ 3 
+Remplazar_Foco
+ 0 
+ 4 
+IS1:0
+ 3 
+ 3 
+-1 
+ 2 
+
+FOCO = continua_funcionando
+TE3:0
+ 2 
+-1 
+ 1 
+-1 
+
+[No_Requiere_Accion] = 10
+IS2:1
+ 3 
+-1 
+-1 
+ 4 
+
+FOCO = se_apago
+TE4:0
+ 4 
+-1 
+ 3 
+-1 
+
+[Cambiar_Foco] = 10
+
+ 0 
+Command Block 1
+ 1 
+ 2 
+C5:0
+ 2 
+ 2 
+-1 
+-1 
+
+DERIVE CONF
+C6:0
+ 2 
+-1 
+-1 
+-1 
+
+RESULTS
+
+ 0 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 1 
+ 2 
+C11:0
+ 2 
+ 2 
+-1 
+-1 
+
+ASK [FOCO]
+C12:0
+ 2 
+-1 
+-1 
+-1 
+
+EXIT
+
+ 0 
+ 0 
+ 1 
+CONFIDENCE   FORMAT:  FONT=Monospaced SIZE=23 FCOLOR=128,128,255  PROMPT_ONLY 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 0 
+ 0 
+
+

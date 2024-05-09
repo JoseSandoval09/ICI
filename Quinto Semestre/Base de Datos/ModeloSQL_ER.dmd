@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloSQL_ER" id="7E3B0736-7D86-E303-37A6-EB1A73252031" version="3.5">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 00:37:06 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7E3B0736-7D86-E303-37A6-EB1A73252031</designId>
+</OSDM_Design>

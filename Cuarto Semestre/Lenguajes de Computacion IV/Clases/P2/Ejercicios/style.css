@@ -1,0 +1,27 @@
+/*Style for top bar*/
+#topbar{
+    background-color: #AAC0AF;
+    height: 80px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*Style for navbar font color*/
+.nav-link{
+    color: white !important;
+}
+
+/*item and image coursel*/
+.c-item{
+    height: 600px;
+}
+.c-image{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+#divvv{
+    background-color: aquamarine;
+    height: 1000px;
+    width: 500px;
+}

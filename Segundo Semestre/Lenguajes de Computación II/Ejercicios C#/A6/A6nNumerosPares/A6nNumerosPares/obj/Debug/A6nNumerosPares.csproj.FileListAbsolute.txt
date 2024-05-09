@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\bin\Debug\A6nNumerosPares.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\bin\Debug\A6nNumerosPares.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\bin\Debug\A6nNumerosPares.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\A6\A6nNumerosPares\A6nNumerosPares\obj\Debug\A6nNumerosPares.pdb

@@ -1,0 +1,264 @@
+body{
+    margin: 0em 0em 0em 0em;
+    font-family: sans-serif
+    
+}
+/*barra con logo sony*/
+#sonybox{
+    
+    background-color: black;
+    width: auto;
+    height: 50px;
+    text-align: right;
+    
+}
+
+
+/* main bar white*/
+#mainbar{
+    
+    position:sticky;
+    display: inline-block;
+    height: 60px;
+    background-color:white;
+    width: auto;
+    
+
+}
+
+.mbar2{
+    background-color: white;
+    padding-top: 0;
+    margin-left: 70px;
+    height:60px ;
+    width: auto;
+}
+#pmb{
+    float: left;
+    margin-left: 30px;
+}
+
+.mbb{
+    background-color: white;
+    margin-left:1050px;
+    height: 60px;
+    width: 360px;
+}
+#bd{
+    background-color:rgb(56, 100, 232);
+    border-radius: 5em;
+    width:130px;
+    margin-top: 10px;
+    height: 30px;
+    border-color: white;
+    border-style:hidden;
+    font-weight: 700;
+
+}
+
+
+input[type="search"]{
+   
+    background: transparent;
+    margin: 0;
+    font-size: 14px;
+    color: inherit;
+    border-radius:5em ;
+    margin-left: 10px;
+    width: 189px;
+    text-align: center;
+
+}
+
+/*Acerca de la PSN Store*/
+#estadored{
+    position: relative;
+    top: auto;
+    width: auto;
+    height: 550px;
+    background-color:#172C9E ;
+}
+
+.ppsn{
+    position: relative;
+    top: 150px;
+    left: 170px;
+}
+#tppsn1{
+    position: relative;
+    top: 130px;
+    left: 170px;
+    font-size: 45px;
+}
+#tppsn2{
+    position: relative;
+    top: 100px;
+    left: 170px;
+    text-align: left;
+    
+}
+
+#imglap{
+    position:absolute;
+    left: 900px;
+    top: 60px;
+
+}
+#btver1{
+    background-color:#c3410a;
+    border-radius: 5em;
+    width: 150px;
+    height: 30px;
+    position: relative;
+    top: 100px;
+    left: 180px;
+    border: none;
+    font-weight:bold;
+    opacity: 1;
+    color: white;
+}
+
+/*Biblioteca*/
+#iniciarsesion{
+    position: relative;
+    top: 0;
+    width: auto;
+    height: 600px;
+    background-color: rgb(241, 241, 241);
+    text-align: left;
+    
+}
+
+#maint{
+    position: absolute;
+    top: 100px;
+    text-align: left;
+    font-size: 25px;
+    padding-left: 4em;
+}
+
+#textIS{
+    position: absolute;
+    top: 180px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100px;
+    opacity: .8;
+    padding-left: 5em;
+}
+#idbt1IS{
+    background-color: #c3410a;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top:400px;
+    left: 100px;
+    border: none;
+    border-radius: 5em;
+    font-weight: bold;
+}
+#crcbt2IS{
+    background-color:#2a74ce;
+    height: 50px;
+    width: 250px;
+    position: absolute;
+    top:400px;
+    left: 270px;
+    border: none;
+    border-radius: 5em;
+    font-weight: bold;
+    
+}
+
+#cellphoneimage{
+    position: absolute;
+    left: 900px;
+    height: 400px;
+    top: 100px;
+}
+
+/*Grandes juegos*/
+#grandesjue{
+    background-color:rgb(241, 241, 241);
+    width: auto;
+    height: 800px;
+    text-align: center;
+}
+
+#textm{
+    font-size: 40px;
+    padding-top: 2em;
+}
+
+#textm2{
+    padding-top: 2em;
+    opacity: 0.6;
+    font-size: 20px;
+}
+#img{
+    margin-top: 2em;
+    position: absolute;
+    left: 610px;
+    border-radius: 1em;
+}
+
+/*privacidad*/
+#privacidad{
+    background-image: url("privacidad.png");
+    width: auto;
+    height: 600px;
+    margin: 0em, 0em,0em 0em;
+}
+
+#txtprivacidad{
+    text-align: left;
+    padding-left: 7em;
+    color: white;
+    margin-top: 30px;
+    padding-top: 7em;
+    font-size: 30px;
+}
+#txt2privacidad{
+    font-size: 15px;
+    color: white;
+    padding-top: 0em;
+    margin-left: 14em;
+}
+#buttonprivacidad{
+    background-color:#ffffff;
+    height: 30px;
+    width: 150px;
+    border: none;
+    margin-left:16em;
+    border-radius: 5em;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+/*PRIVACIDAD*/
+#privacy{
+    background-color: #204d94;
+    width: auto;
+    height: 800px;
+}
+.txtprivacy{
+    color: white;
+}
+table{
+    border-spacing: 10px;
+    text-align: center;
+    padding-bottom: 1em;
+    padding-left: 2em;
+}
+th,td{
+    padding: 0em;
+}
+tr.border_bottom td{
+    border-bottom: 1px solid black;
+}
+hr{
+    opacity: 0.5;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 90%;
+}

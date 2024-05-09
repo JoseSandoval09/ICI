@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07B845A5-FE24-49F9-A64F-F38815B28462}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GATO3D_PSEGUNDOPARCIAL_DOERXRJSDSDT</RootNamespace>
+    <AssemblyName>GATO3D_PSEGUNDOPARCIAL_DOERXRJSDSDT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\champi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125drake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125dualipa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125kanye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125kim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125macmiller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125messi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125pepe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125pete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125rosalia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125spiderman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125taylor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75drake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75dualipa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75kanye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75kim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75macmiller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75messi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75pepe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75pete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75rosalia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75spiderman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75taylor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75grammy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\walter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uvst.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nomario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamacoco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayacatorce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayacero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayacinco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayacuatro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadiecinueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadieciocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadieciseis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadiecisiete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadiez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayadoce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayanueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayaocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayaonce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayaquince.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayaseis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayasiete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayatrece.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayatres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayauno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD-wallpaper-numbers-mathematics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gucci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gucci rojo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flex tape rome.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mama coco 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_296299593_CjbC8w9t6WNBOUfvfVsf6DIfkmkIzku2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullygif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horrible-fear.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

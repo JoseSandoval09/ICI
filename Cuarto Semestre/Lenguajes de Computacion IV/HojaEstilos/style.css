@@ -1,0 +1,28 @@
+
+
+#cuadrado-Limegreen{
+    background-color: limegreen;
+    border: 10px rgb(0, 0, 0);
+    border-style:inset
+    
+}
+
+#cuadrado-Blue{
+    background-color: lightskyblue;
+    border-style: groove solid dotted dashed;
+    border-color: aquamarine plum lawngreen;
+    border-width: 10px 20px;
+    
+}
+
+#cuadrado-purple{
+    background-color: rebeccapurple;
+    border-radius: 50%;
+    
+}
+
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    margin: 40px;
+}

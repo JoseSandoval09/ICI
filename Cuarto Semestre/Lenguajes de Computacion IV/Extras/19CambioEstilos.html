@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript estilos</title>
+    <style type="text/css">
+        #cuadrado-rojo{
+            background-color: red;
+            border-radius: 50%; 
+         }
+         #cuadrado-verde{
+            background-color: green;
+            border-radius: 50%; 
+         }
+         #cuadrado-amarillo{
+            background-color: yellow;
+            border-radius: 50%;  
+         }
+         .cuadrado{
+            width: 150px;
+            height: 150px;
+            margin: 40px;
+         }
+         #forma{
+            position: relative;
+            left: 53px;
+            top: 120px;
+         }
+    </style>
+</head>
+<body>
+    <div id="cuadrado-rojo" class="cuadrado"></div>
+    <div id="cuadrado-verde" class="cuadrado"></div>
+    <button id="forma" type="button"> Cambiar de forma </button>
+    <div id="cuadrado-amarillo" class="cuadrado"> </div>
+
+    <script type="text/javascript">
+        document.getElementById("cuadrado-rojo").onclick= function() 
+        {
+            //estamos desapareciendo el cuadrado
+            document.getElementById("cuadrado-rojo").style.display="none";
+        };
+
+        document.getElementById("cuadrado-verde").onclick= function() 
+        {
+            //estamos redimensionando el cuadrado
+            document.getElementById("cuadrado-verde").style.height="90px";
+            document.getElementById("cuadrado-verde").style.width="70px";
+        };
+
+        document.getElementById("forma").onclick= function() 
+        {
+            //estamos cambiando la forma del cuadrado
+            document.getElementById("cuadrado-amarillo").style.borderRadius="0%";
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\bin\Debug\REGISTRO_TEMPERATURA_CEEH.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\bin\Debug\REGISTRO_TEMPERATURA_CEEH.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\bin\Debug\REGISTRO_TEMPERATURA_CEEH.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\REGISTRO_TEMPERATURA_CEEH\obj\Debug\REGISTRO_TEMPERATURA_CEEH.pdb

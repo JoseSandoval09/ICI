@@ -1,0 +1,7 @@
+EXPLICACION
+
+Programa realizado: funcion recursiva para invertir el orden de un numero entero 
+
+Jose Luis Sandoval Perez: El programa realizado fue bastante facil de realizar, el tema de recursividad es un tema que sin duda esta algo complejo de entender, una vez entendido el tema es  facil a la hora de realizar ejercicios de aplicacion. Aun no domino el tema al 100%, debido a que el nivel de entendimiento fue basico.
+
+Cesar Eduardo Elias Del Hoyo: El programa que se realizo fue bastante basico, se me hizo facil entenderlo, teniendo ya un conocimiento suficiente de la recursividad no se me complico del todo. La recursividad es muy interesante debido a que tiene muchas aplicaciones. 

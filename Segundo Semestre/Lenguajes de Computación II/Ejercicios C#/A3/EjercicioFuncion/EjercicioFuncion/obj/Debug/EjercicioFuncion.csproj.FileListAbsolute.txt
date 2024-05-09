@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\bin\Debug\EjercicioFuncion.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\bin\Debug\EjercicioFuncion.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\bin\Debug\EjercicioFuncion.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\EjercicioFuncion\EjercicioFuncion\obj\Debug\EjercicioFuncion.pdb

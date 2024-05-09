@@ -1,0 +1,10 @@
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\bin\Debug\Ejercicio_15FEB.exe.config
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\bin\Debug\Ejercicio_15FEB.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\bin\Debug\Ejercicio_15FEB.pdb
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.csproj.AssemblyReference.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.Form1.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.Properties.Resources.resources
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.csproj.GenerateResource.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.csproj.CoreCompileInputs.cache
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.exe
+D:\UAA\ICI\Segundo Semestre\Lenguajes de Computación II\Ejercicios C#\Ejercicio_15FEB\Ejercicio_15FEB\obj\Debug\Ejercicio_15FEB.pdb

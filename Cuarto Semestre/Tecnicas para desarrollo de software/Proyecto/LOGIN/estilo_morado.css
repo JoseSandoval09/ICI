@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Inconsolata:wght@300&display=swap');
+:root{
+    --primario: #150B1D;
+    --texto: #FFF;/*#B5B5B5;*/
+    --terciario: #150B1D;
+    --resalta: #1eff00;
+    --tam_contenido: 500px;
+}
+body{
+    background-color: var(--terciario);
+    color: var(--texto);
+    font-family: 'inconsolata',Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+h1{
+    font-family: 'Berkshire Swash','Times New Roman', Times, serif;
+}
+.bajar-h1{
+    position: relative;
+    top: 75px;
+}
+#circular1{
+    color: var(--texto);
+    font-size: 3em;
+}
+span #circular1{
+    position: absolute;
+    transform-origin: 0 80px;
+}
+.encabezado{
+    width: auto;
+    background-color: var(--terciario);
+    text-align: center;
+}
+.contenido{
+    width: var(--tam_contenido);
+    height: var(--tam_contenido);
+    margin: 1em auto;
+    padding: 2em;
+    border-radius: 50%;
+    text-align: center;
+        /*Imagen de fondo*/
+        background-image: url(Recursos/bck2.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        /*-----------------------------*/
+    background-color: var(--primario);
+    border-radius: 50%;
+}
+.texto-sesion{
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: var(--primario);
+    width:50%;
+    padding: 0.2em;
+    margin: 0 auto;
+    margin-top: -50px;
+}
+.in_texto{
+    border: none;
+    border-radius: 0.2em;
+    opacity: 90%;
+    width: 50%;
+    padding: 0.5em;
+}
+.in_name_last{
+    background-color: #B5B5B5;
+}
+
+.boton_registro{
+    border: none;
+    padding: 0.2em 0.5em;
+    background-color: var(--texto);
+    color: var(--terciario);
+    font-size: 1.2em;
+}
+#formulario{
+    position: relative;
+    bottom: 25%;
+}
+.texto-hipervinculo{
+    background-color: var(--primario);
+    width: 40%;
+    padding: 0.2em;
+    margin: 0.2em auto;
+}
+.texto-hipervinculo a{
+    color: var(--resalta);
+}
+#pie-pagina{
+    font-family: 'Berkshire Swash', 'Times New Roman', Arial;
+    color: var(--texto);
+    text-align: center;
+    margin: 0 auto;
+}
+

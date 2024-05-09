@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="LetraEnCancion" directorySegmentName="seg_0" id="A10DDA0E-A2D5-7077-4DF8-4ED264A8DD72">
+<createdBy>sando_t80k</createdBy>
+<createdTime>2023-11-28 02:17:53 UTC</createdTime>
+<ownerDesignName>ModeloSQL_ER</ownerDesignName>
+<engineerTo>
+<item key="69BA85B3-CA0E-2D8A-3808-F92690EDC398" value="true"/>
+</engineerTo>
+<sourcePk>125D7A77-F92E-473E-DB3E-AB61FC51837B</sourcePk>
+<targetPk>67EAD26D-900E-3F77-2650-B6757A227BB4</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>E0416212-490F-4D54-D3A9-A0AA4D3C6742</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>28342662-0F2B-C6E1-248A-CA1F40CAD471</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

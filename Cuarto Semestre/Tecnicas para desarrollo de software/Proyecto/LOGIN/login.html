@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <link rel="stylesheet" type="text/css" href="estilo_morado.css">
+    <title>Iniciar Sesion</title>
+</head>
+<body>
+    
+    <div class="contenido">
+            <div id="formulario">
+                <h1 id="circular1" class="bajar-h1">Congreso de Ciencias Ocultas</h1>
+                <div class="texto-sesion"><p >Iniciar Sesión</p></div>
+                <p><input type="text" id="in_correo" placeholder="Correo electrónico" class="in_texto"></p>
+                <p><input type="password" id="in_contrasena" placeholder="Contraseña" class="in_texto"></p>
+                <button class="boton_registro" onclick="">Iniciar Sesión</button>
+                <div class="texto-hipervinculo">
+                  <p>¿No tienes cuenta? <a href="signup.html">Registrate Ahora</a></p>  
+                </div>
+            </div>
+            
+    </div>
+
+    <div id="pie-pagina">
+        <p>"Aquello que creemos perdido, está oculto a simple vista"</p>    
+    </div>
+
+    <!-- https://circletype.labwire.ca/ -->
+  <script src="https://cdn.jsdelivr.net/npm/circletype@2.3.0/dist/circletype.min.js"></script>
+
+  <script>
+    const text = document.getElementById('circular1')
+    const rotate = new CircleType(text).radius(250)
+  </script>
+    
+</body>
+</html>
